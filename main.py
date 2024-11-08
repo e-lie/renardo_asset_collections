@@ -5,7 +5,7 @@ from indexing_scripts.remove_collection_json_indexes import remove_collection_in
 
 
 base_directory = "."
-base_url = 'http://renardo-collections.netlify.app/' 
+base_url = 'http://collections.renardo.org/' 
 
 remove_collection_index_files(base_directory)
 remove_html_files(base_directory)
