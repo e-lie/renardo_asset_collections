@@ -55,9 +55,9 @@ def generate_index_html(base_dir, base_url):
 
         # URL encode folder and file names
 
-        nonpython_files = [fi for fi in files if (not fi.endswith(".py") and not fi.endswith(".pyc"))]
+        nonpython_files = [fi for fi in files if (not fi.endswith(".py") and not fi.endswith(".pyc") and fi != ".gitignore")]
 
-        nonpython_dirs = [di for di in dirs if di != "indexing_scripts" and di != "__pycache__"]
+        nonpython_dirs = [di for di in dirs if di != "indexing_scripts" and di != "__pycache__" and di != ".git"]
 
         encoded_dirs = [quote(d) for d in sorted(nonpython_dirs)]
         encoded_files = [quote(f) for f in sorted(nonpython_files)]
