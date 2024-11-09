@@ -194,29 +194,29 @@
           "path": "./samples/0_foxdot_default/_/bar",
           "children": [
             {
-              "name": "A#4_light.wav",
-              "path": "./samples/0_foxdot_default/_/bar/A#4_light.wav",
-              "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/A%234_light.wav"
-            },
-            {
               "name": "A3_light.wav",
               "path": "./samples/0_foxdot_default/_/bar/A3_light.wav",
               "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/A3_light.wav"
             },
             {
-              "name": "C#4_light.wav",
-              "path": "./samples/0_foxdot_default/_/bar/C#4_light.wav",
-              "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/C%234_light.wav"
+              "name": "A_sharp_4_light.wav",
+              "path": "./samples/0_foxdot_default/_/bar/A_sharp_4_light.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/A_sharp_4_light.wav"
             },
             {
-              "name": "D#3_light.wav",
-              "path": "./samples/0_foxdot_default/_/bar/D#3_light.wav",
-              "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/D%233_light.wav"
+              "name": "C_sharp_4_light.wav",
+              "path": "./samples/0_foxdot_default/_/bar/C_sharp_4_light.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/C_sharp_4_light.wav"
             },
             {
               "name": "D3_light.wav",
               "path": "./samples/0_foxdot_default/_/bar/D3_light.wav",
               "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/D3_light.wav"
+            },
+            {
+              "name": "D_sharp_3_light.wav",
+              "path": "./samples/0_foxdot_default/_/bar/D_sharp_3_light.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default/_/bar/D_sharp_3_light.wav"
             },
             {
               "name": "G3_light.wav",

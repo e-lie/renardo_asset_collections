@@ -1998,9 +1998,9 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/_/forwardslash/031_Various_RiserVocal1_D135.wav"
             },
             {
-              "name": "032_Various_RiserVocal1_D#200.wav",
-              "path": "./samples/1_pitchglitch_samples/_/forwardslash/032_Various_RiserVocal1_D#200.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/_/forwardslash/032_Various_RiserVocal1_D%23200.wav"
+              "name": "032_Various_RiserVocal1_D_sharp_200.wav",
+              "path": "./samples/1_pitchglitch_samples/_/forwardslash/032_Various_RiserVocal1_D_sharp_200.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/_/forwardslash/032_Various_RiserVocal1_D_sharp_200.wav"
             },
             {
               "name": "033_Various_RiserVocal2_A103.wav",
@@ -2581,9 +2581,9 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/_/percent/022_SoundFX_HornLong_ReznikKrkovicka.wav"
             },
             {
-              "name": "023_SoundFX_AlienHorn_D#_KS.wav",
-              "path": "./samples/1_pitchglitch_samples/_/percent/023_SoundFX_AlienHorn_D#_KS.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/_/percent/023_SoundFX_AlienHorn_D%23_KS.wav"
+              "name": "023_SoundFX_AlienHorn_D_sharp_KS.wav",
+              "path": "./samples/1_pitchglitch_samples/_/percent/023_SoundFX_AlienHorn_D_sharp_KS.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/_/percent/023_SoundFX_AlienHorn_D_sharp_KS.wav"
             },
             {
               "name": "024_SoundFX_TubeAirhorn_Sweetniche.wav",
@@ -4049,9 +4049,9 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/000_Vocal_Eyh_NoN.wav"
             },
             {
-              "name": "001_Vocal_BaowuhG#147_NoN.wav",
-              "path": "./samples/1_pitchglitch_samples/c/lower/001_Vocal_BaowuhG#147_NoN.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/001_Vocal_BaowuhG%23147_NoN.wav"
+              "name": "001_Vocal_BaowuhG_sharp_147_NoN.wav",
+              "path": "./samples/1_pitchglitch_samples/c/lower/001_Vocal_BaowuhG_sharp_147_NoN.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/001_Vocal_BaowuhG_sharp_147_NoN.wav"
             },
             {
               "name": "002_Vocal_DeDuDipDuDup1_NoN.wav",
@@ -4074,14 +4074,14 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/005_Vocal_BowYeahYeah.wav"
             },
             {
-              "name": "006_Vocal_HiYaha1C#170_NoN.wav",
-              "path": "./samples/1_pitchglitch_samples/c/lower/006_Vocal_HiYaha1C#170_NoN.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/006_Vocal_HiYaha1C%23170_NoN.wav"
+              "name": "006_Vocal_HiYaha1C_sharp_170_NoN.wav",
+              "path": "./samples/1_pitchglitch_samples/c/lower/006_Vocal_HiYaha1C_sharp_170_NoN.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/006_Vocal_HiYaha1C_sharp_170_NoN.wav"
             },
             {
-              "name": "007_Vocal_HiYaha2C#170_NoN.wav",
-              "path": "./samples/1_pitchglitch_samples/c/lower/007_Vocal_HiYaha2C#170_NoN.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/007_Vocal_HiYaha2C%23170_NoN.wav"
+              "name": "007_Vocal_HiYaha2C_sharp_170_NoN.wav",
+              "path": "./samples/1_pitchglitch_samples/c/lower/007_Vocal_HiYaha2C_sharp_170_NoN.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/c/lower/007_Vocal_HiYaha2C_sharp_170_NoN.wav"
             },
             {
               "name": "008_Vocal_MatrixAhh_NoN.wav",
@@ -5597,9 +5597,9 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/g/upper/008_Various_ViolinE_Oleviolin.wav"
             },
             {
-              "name": "009_Various_ViolinF#_Oleviolin.wav",
-              "path": "./samples/1_pitchglitch_samples/g/upper/009_Various_ViolinF#_Oleviolin.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/g/upper/009_Various_ViolinF%23_Oleviolin.wav"
+              "name": "009_Various_ViolinF_sharp_Oleviolin.wav",
+              "path": "./samples/1_pitchglitch_samples/g/upper/009_Various_ViolinF_sharp_Oleviolin.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/g/upper/009_Various_ViolinF_sharp_Oleviolin.wav"
             },
             {
               "name": "010_Various_ViolinA_Oleviolin.wav",
@@ -5612,9 +5612,9 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/g/upper/011_Various_ViolinB_Oleviolin.wav"
             },
             {
-              "name": "012_Various_ViolinC#_Oleviolin.wav",
-              "path": "./samples/1_pitchglitch_samples/g/upper/012_Various_ViolinC#_Oleviolin.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/g/upper/012_Various_ViolinC%23_Oleviolin.wav"
+              "name": "012_Various_ViolinC_sharp_Oleviolin.wav",
+              "path": "./samples/1_pitchglitch_samples/g/upper/012_Various_ViolinC_sharp_Oleviolin.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/g/upper/012_Various_ViolinC_sharp_Oleviolin.wav"
             },
             {
               "name": "013_Various_ViolinSpiccatoD_Ldk1609.wav",
@@ -6961,9 +6961,9 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/j/upper/023_SoundFX_System2_KS.wav"
             },
             {
-              "name": "024_SoundFX_TalkinBass_A#.wav",
-              "path": "./samples/1_pitchglitch_samples/j/upper/024_SoundFX_TalkinBass_A#.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/j/upper/024_SoundFX_TalkinBass_A%23.wav"
+              "name": "024_SoundFX_TalkinBass_A_sharp.wav",
+              "path": "./samples/1_pitchglitch_samples/j/upper/024_SoundFX_TalkinBass_A_sharp.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/j/upper/024_SoundFX_TalkinBass_A_sharp.wav"
             },
             {
               "name": "025_SoundFX_TringleOfPower_KS.wav",
@@ -12849,9 +12849,9 @@
               "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/z/upper/031_SoundFX_BassFXLoop_GranularSumo.wav"
             },
             {
-              "name": "032_SoundFX_DirtF#_KS.wav",
-              "path": "./samples/1_pitchglitch_samples/z/upper/032_SoundFX_DirtF#_KS.wav",
-              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/z/upper/032_SoundFX_DirtF%23_KS.wav"
+              "name": "032_SoundFX_DirtF_sharp_KS.wav",
+              "path": "./samples/1_pitchglitch_samples/z/upper/032_SoundFX_DirtF_sharp_KS.wav",
+              "url": "http://collections.renardo.org/samples/1_pitchglitch_samples/z/upper/032_SoundFX_DirtF_sharp_KS.wav"
             },
             {
               "name": "033_SoundFX_ReeseAcoustic4_Apashe.wav",
