@@ -1,0 +1,90 @@
+{
+  "name": "0_foxdot_default_testing",
+  "path": "./samples/0_foxdot_default_testing",
+  "children": [
+    {
+      "name": "_loop_",
+      "path": "./samples/0_foxdot_default_testing/_loop_",
+      "children": [
+        {
+          "name": "foxdot.wav",
+          "path": "./samples/0_foxdot_default_testing/_loop_/foxdot.wav",
+          "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/_loop_/foxdot.wav"
+        }
+      ]
+    },
+    {
+      "name": "a",
+      "path": "./samples/0_foxdot_default_testing/a",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./samples/0_foxdot_default_testing/a/lower",
+          "children": [
+            {
+              "name": "gb_hihat 0.wav",
+              "path": "./samples/0_foxdot_default_testing/a/lower/gb_hihat 0.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/gb_hihat%200.wav"
+            },
+            {
+              "name": "gb_hihat 1.wav",
+              "path": "./samples/0_foxdot_default_testing/a/lower/gb_hihat 1.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/gb_hihat%201.wav"
+            },
+            {
+              "name": "gb_hihat 2.wav",
+              "path": "./samples/0_foxdot_default_testing/a/lower/gb_hihat 2.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/gb_hihat%202.wav"
+            },
+            {
+              "name": "gb_hihat 3.wav",
+              "path": "./samples/0_foxdot_default_testing/a/lower/gb_hihat 3.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/gb_hihat%203.wav"
+            },
+            {
+              "name": "gb_hihat 3.wav.reapeaks",
+              "path": "./samples/0_foxdot_default_testing/a/lower/gb_hihat 3.wav.reapeaks",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/gb_hihat%203.wav.reapeaks"
+            },
+            {
+              "name": "gb_hihat 4.wav",
+              "path": "./samples/0_foxdot_default_testing/a/lower/gb_hihat 4.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/gb_hihat%204.wav"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./samples/0_foxdot_default_testing/a/upper",
+          "children": [
+            {
+              "name": "0_dist_kick.wav",
+              "path": "./samples/0_foxdot_default_testing/a/upper/0_dist_kick.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/upper/0_dist_kick.wav"
+            },
+            {
+              "name": "1_dist_kick.wav",
+              "path": "./samples/0_foxdot_default_testing/a/upper/1_dist_kick.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/upper/1_dist_kick.wav"
+            },
+            {
+              "name": "2_dist_kick.wav",
+              "path": "./samples/0_foxdot_default_testing/a/upper/2_dist_kick.wav",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/upper/2_dist_kick.wav"
+            },
+            {
+              "name": "2_dist_kick.wav.reapeaks",
+              "path": "./samples/0_foxdot_default_testing/a/upper/2_dist_kick.wav.reapeaks",
+              "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/a/upper/2_dist_kick.wav.reapeaks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "collection.json",
+      "path": "./samples/0_foxdot_default_testing/collection.json",
+      "url": "http://collections.renardo.org/samples/0_foxdot_default_testing/collection.json"
+    }
+  ]
+}
