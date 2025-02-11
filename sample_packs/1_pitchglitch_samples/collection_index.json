@@ -1095,9 +1095,9 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/G/008_Various_ViolinE_Oleviolin.flac"
         },
         {
-          "name": "009_Various_ViolinF#_Oleviolin.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/G/009_Various_ViolinF#_Oleviolin.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/G/009_Various_ViolinF%23_Oleviolin.flac"
+          "name": "009_Various_ViolinF_sharp__Oleviolin.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/G/009_Various_ViolinF_sharp__Oleviolin.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/G/009_Various_ViolinF_sharp__Oleviolin.flac"
         },
         {
           "name": "010_Various_ViolinA_Oleviolin.flac",
@@ -1110,9 +1110,9 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/G/011_Various_ViolinB_Oleviolin.flac"
         },
         {
-          "name": "012_Various_ViolinC#_Oleviolin.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/G/012_Various_ViolinC#_Oleviolin.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/G/012_Various_ViolinC%23_Oleviolin.flac"
+          "name": "012_Various_ViolinC_sharp__Oleviolin.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/G/012_Various_ViolinC_sharp__Oleviolin.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/G/012_Various_ViolinC_sharp__Oleviolin.flac"
         },
         {
           "name": "013_Various_ViolinSpiccatoD_Ldk1609.flac",
@@ -1873,9 +1873,9 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/J/023_SoundFX_System2_KS.flac"
         },
         {
-          "name": "024_SoundFX_TalkinBass_A#.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/J/024_SoundFX_TalkinBass_A#.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/J/024_SoundFX_TalkinBass_A%23.flac"
+          "name": "024_SoundFX_TalkinBass_A_sharp_.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/J/024_SoundFX_TalkinBass_A_sharp_.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/J/024_SoundFX_TalkinBass_A_sharp_.flac"
         },
         {
           "name": "025_SoundFX_TringleOfPower_KS.flac",
@@ -4754,9 +4754,9 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/Z/031_SoundFX_BassFXLoop_GranularSumo.flac"
         },
         {
-          "name": "032_SoundFX_DirtF#_KS.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/Z/032_SoundFX_DirtF#_KS.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/Z/032_SoundFX_DirtF%23_KS.flac"
+          "name": "032_SoundFX_DirtF_sharp__KS.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/Z/032_SoundFX_DirtF_sharp__KS.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/Z/032_SoundFX_DirtF_sharp__KS.flac"
         },
         {
           "name": "033_SoundFX_ReeseAcoustic4_Apashe.flac",
@@ -6565,9 +6565,9 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/_forwardslash/031_Various_RiserVocal1_D135.flac"
         },
         {
-          "name": "032_Various_RiserVocal1_D#200.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/_forwardslash/032_Various_RiserVocal1_D#200.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/_forwardslash/032_Various_RiserVocal1_D%23200.flac"
+          "name": "032_Various_RiserVocal1_D_sharp_200.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/_forwardslash/032_Various_RiserVocal1_D_sharp_200.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/_forwardslash/032_Various_RiserVocal1_D_sharp_200.flac"
         },
         {
           "name": "033_Various_RiserVocal2_A103.flac",
@@ -7279,9 +7279,9 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/_percent/022_SoundFX_HornLong_ReznikKrkovicka.flac"
         },
         {
-          "name": "023_SoundFX_AlienHorn_D#_KS.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/_percent/023_SoundFX_AlienHorn_D#_KS.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/_percent/023_SoundFX_AlienHorn_D%23_KS.flac"
+          "name": "023_SoundFX_AlienHorn_D_sharp__KS.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/_percent/023_SoundFX_AlienHorn_D_sharp__KS.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/_percent/023_SoundFX_AlienHorn_D_sharp__KS.flac"
         },
         {
           "name": "024_SoundFX_TubeAirhorn_Sweetniche.flac",
@@ -8281,9 +8281,9 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/000_Vocal_Eyh_NoN.flac"
         },
         {
-          "name": "001_Vocal_BaowuhG#147_NoN.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/c/001_Vocal_BaowuhG#147_NoN.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/001_Vocal_BaowuhG%23147_NoN.flac"
+          "name": "001_Vocal_BaowuhG_sharp_147_NoN.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/c/001_Vocal_BaowuhG_sharp_147_NoN.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/001_Vocal_BaowuhG_sharp_147_NoN.flac"
         },
         {
           "name": "002_Vocal_DeDuDipDuDup1_NoN.flac",
@@ -8306,14 +8306,14 @@
           "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/005_Vocal_BowYeahYeah.flac"
         },
         {
-          "name": "006_Vocal_HiYaha1C#170_NoN.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/c/006_Vocal_HiYaha1C#170_NoN.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/006_Vocal_HiYaha1C%23170_NoN.flac"
+          "name": "006_Vocal_HiYaha1C_sharp_170_NoN.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/c/006_Vocal_HiYaha1C_sharp_170_NoN.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/006_Vocal_HiYaha1C_sharp_170_NoN.flac"
         },
         {
-          "name": "007_Vocal_HiYaha2C#170_NoN.flac",
-          "path": "./sample_packs/1_pitchglitch_samples/c/007_Vocal_HiYaha2C#170_NoN.flac",
-          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/007_Vocal_HiYaha2C%23170_NoN.flac"
+          "name": "007_Vocal_HiYaha2C_sharp_170_NoN.flac",
+          "path": "./sample_packs/1_pitchglitch_samples/c/007_Vocal_HiYaha2C_sharp_170_NoN.flac",
+          "url": "http://collections.renardo.org/sample_packs/1_pitchglitch_samples/c/007_Vocal_HiYaha2C_sharp_170_NoN.flac"
         },
         {
           "name": "008_Vocal_MatrixAhh_NoN.flac",
