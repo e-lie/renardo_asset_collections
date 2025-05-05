@@ -1,0 +1,97 @@
+{
+  "name": "special_sccode",
+  "path": "./special_sccode",
+  "children": [
+    {
+      "name": "Buffers.scd",
+      "path": "./special_sccode/Buffers.scd",
+      "url": "https://collections.renardo.org/special_sccode/Buffers.scd"
+    },
+    {
+      "name": "Info.scd",
+      "path": "./special_sccode/Info.scd",
+      "url": "https://collections.renardo.org/special_sccode/Info.scd"
+    },
+    {
+      "name": "OscFunc.scd",
+      "path": "./special_sccode/OscFunc.scd",
+      "url": "https://collections.renardo.org/special_sccode/OscFunc.scd"
+    },
+    {
+      "name": "Record.scd",
+      "path": "./special_sccode/Record.scd",
+      "url": "https://collections.renardo.org/special_sccode/Record.scd"
+    },
+    {
+      "name": "Startup.scd",
+      "path": "./special_sccode/Startup.scd",
+      "url": "https://collections.renardo.org/special_sccode/Startup.scd"
+    },
+    {
+      "name": "collection.json",
+      "path": "./special_sccode/collection.json",
+      "url": "https://collections.renardo.org/special_sccode/collection.json"
+    },
+    {
+      "name": "makeSound.scd",
+      "path": "./special_sccode/makeSound.scd",
+      "url": "https://collections.renardo.org/special_sccode/makeSound.scd"
+    },
+    {
+      "name": "play1.py",
+      "path": "./special_sccode/play1.py",
+      "url": "https://collections.renardo.org/special_sccode/play1.py"
+    },
+    {
+      "name": "play1.scd",
+      "path": "./special_sccode/play1.scd",
+      "url": "https://collections.renardo.org/special_sccode/play1.scd"
+    },
+    {
+      "name": "play2.py",
+      "path": "./special_sccode/play2.py",
+      "url": "https://collections.renardo.org/special_sccode/play2.py"
+    },
+    {
+      "name": "play2.scd",
+      "path": "./special_sccode/play2.scd",
+      "url": "https://collections.renardo.org/special_sccode/play2.scd"
+    },
+    {
+      "name": "scenvelopes",
+      "path": "./special_sccode/scenvelopes",
+      "children": [
+        {
+          "name": "BasicEnvelope.scd",
+          "path": "./special_sccode/scenvelopes/BasicEnvelope.scd",
+          "url": "https://collections.renardo.org/special_sccode/scenvelopes/BasicEnvelope.scd"
+        },
+        {
+          "name": "MaskEnvelope.scd",
+          "path": "./special_sccode/scenvelopes/MaskEnvelope.scd",
+          "url": "https://collections.renardo.org/special_sccode/scenvelopes/MaskEnvelope.scd"
+        },
+        {
+          "name": "PercussiveEnvelope.scd",
+          "path": "./special_sccode/scenvelopes/PercussiveEnvelope.scd",
+          "url": "https://collections.renardo.org/special_sccode/scenvelopes/PercussiveEnvelope.scd"
+        },
+        {
+          "name": "RampEnvelope.scd",
+          "path": "./special_sccode/scenvelopes/RampEnvelope.scd",
+          "url": "https://collections.renardo.org/special_sccode/scenvelopes/RampEnvelope.scd"
+        },
+        {
+          "name": "SwellEnvelope.scd",
+          "path": "./special_sccode/scenvelopes/SwellEnvelope.scd",
+          "url": "https://collections.renardo.org/special_sccode/scenvelopes/SwellEnvelope.scd"
+        }
+      ]
+    },
+    {
+      "name": "startSound.scd",
+      "path": "./special_sccode/startSound.scd",
+      "url": "https://collections.renardo.org/special_sccode/startSound.scd"
+    }
+  ]
+}

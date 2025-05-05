@@ -10,11 +10,6 @@
           "name": "foxdot.wav",
           "path": "./samples/0_foxdot_default_testing/_loop_/foxdot.wav",
           "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/_loop_/foxdot.wav"
-        },
-        {
-          "name": "index.html",
-          "path": "./samples/0_foxdot_default_testing/_loop_/index.html",
-          "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/_loop_/index.html"
         }
       ]
     },
@@ -22,11 +17,6 @@
       "name": "a",
       "path": "./samples/0_foxdot_default_testing/a",
       "children": [
-        {
-          "name": "index.html",
-          "path": "./samples/0_foxdot_default_testing/a/index.html",
-          "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/a/index.html"
-        },
         {
           "name": "lower",
           "path": "./samples/0_foxdot_default_testing/a/lower",
@@ -60,11 +50,6 @@
               "name": "gb_hihat 4.wav",
               "path": "./samples/0_foxdot_default_testing/a/lower/gb_hihat 4.wav",
               "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/gb_hihat%204.wav"
-            },
-            {
-              "name": "index.html",
-              "path": "./samples/0_foxdot_default_testing/a/lower/index.html",
-              "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/a/lower/index.html"
             }
           ]
         },
@@ -91,11 +76,6 @@
               "name": "2_dist_kick.wav.reapeaks",
               "path": "./samples/0_foxdot_default_testing/a/upper/2_dist_kick.wav.reapeaks",
               "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/a/upper/2_dist_kick.wav.reapeaks"
-            },
-            {
-              "name": "index.html",
-              "path": "./samples/0_foxdot_default_testing/a/upper/index.html",
-              "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/a/upper/index.html"
             }
           ]
         }
@@ -105,11 +85,6 @@
       "name": "collection.json",
       "path": "./samples/0_foxdot_default_testing/collection.json",
       "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/collection.json"
-    },
-    {
-      "name": "index.html",
-      "path": "./samples/0_foxdot_default_testing/index.html",
-      "url": "https://collections.renardo.org/samples/0_foxdot_default_testing/index.html"
     }
   ]
 }
