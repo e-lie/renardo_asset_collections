@@ -1,0 +1,190 @@
+{
+  "name": "2_crashserver",
+  "path": "./sccode_library/2_crashserver",
+  "children": [
+    {
+      "name": "collection.json",
+      "path": "./sccode_library/2_crashserver/collection.json",
+      "url": "https://collections.renardo.org/sccode_library/2_crashserver/collection.json"
+    },
+    {
+      "name": "effect",
+      "path": "./sccode_library/2_crashserver/effect",
+      "children": [
+        {
+          "name": "unclassified",
+          "path": "./sccode_library/2_crashserver/effect/unclassified",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "instrument",
+      "path": "./sccode_library/2_crashserver/instrument",
+      "children": [
+        {
+          "name": "unclassified",
+          "path": "./sccode_library/2_crashserver/instrument/unclassified",
+          "children": [
+            {
+              "name": "abass.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/abass.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/abass.py"
+            },
+            {
+              "name": "alva.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/alva.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/alva.py"
+            },
+            {
+              "name": "angel.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/angel.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/angel.py"
+            },
+            {
+              "name": "angst.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/angst.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/angst.py"
+            },
+            {
+              "name": "bellmod.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/bellmod.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/bellmod.py"
+            },
+            {
+              "name": "bnoise.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/bnoise.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/bnoise.py"
+            },
+            {
+              "name": "brass.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/brass.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/brass.py"
+            },
+            {
+              "name": "broken",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/broken",
+              "children": [
+                {
+                  "name": "stargazer.py",
+                  "path": "./sccode_library/2_crashserver/instrument/unclassified/broken/stargazer.py",
+                  "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/broken/stargazer.py"
+                }
+              ]
+            },
+            {
+              "name": "brown.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/brown.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/brown.py"
+            },
+            {
+              "name": "clip.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/clip.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/clip.py"
+            },
+            {
+              "name": "dopple.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/dopple.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/dopple.py"
+            },
+            {
+              "name": "eeri.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/eeri.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/eeri.py"
+            },
+            {
+              "name": "faim2.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/faim2.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/faim2.py"
+            },
+            {
+              "name": "fbass.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/fbass.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/fbass.py"
+            },
+            {
+              "name": "glitchbass.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/glitchbass.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/glitchbass.py"
+            },
+            {
+              "name": "glitcher.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/glitcher.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/glitcher.py"
+            },
+            {
+              "name": "grat.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/grat.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/grat.py"
+            },
+            {
+              "name": "gray.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/gray.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/gray.py"
+            },
+            {
+              "name": "hnoise.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/hnoise.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/hnoise.py"
+            },
+            {
+              "name": "ladder.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/ladder.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/ladder.py"
+            },
+            {
+              "name": "lapin.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/lapin.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/lapin.py"
+            },
+            {
+              "name": "latoo.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/latoo.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/latoo.py"
+            },
+            {
+              "name": "lfnoise.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/lfnoise.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/lfnoise.py"
+            },
+            {
+              "name": "mpluck.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/mpluck.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/mpluck.py"
+            },
+            {
+              "name": "prof.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/prof.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/prof.py"
+            },
+            {
+              "name": "radio.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/radio.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/radio.py"
+            },
+            {
+              "name": "total.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/total.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/total.py"
+            },
+            {
+              "name": "tritri.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/tritri.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/tritri.py"
+            },
+            {
+              "name": "virus.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/virus.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/virus.py"
+            },
+            {
+              "name": "waves.py",
+              "path": "./sccode_library/2_crashserver/instrument/unclassified/waves.py",
+              "url": "https://collections.renardo.org/sccode_library/2_crashserver/instrument/unclassified/waves.py"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

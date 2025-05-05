@@ -1,0 +1,2358 @@
+{
+  "name": "0_foxdot_default",
+  "path": "./sample_packs/0_foxdot_default",
+  "children": [
+    {
+      "name": "1",
+      "path": "./sample_packs/0_foxdot_default/1",
+      "children": [
+        {
+          "name": "one1.flac",
+          "path": "./sample_packs/0_foxdot_default/1/one1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/1/one1.flac"
+        },
+        {
+          "name": "one2.flac",
+          "path": "./sample_packs/0_foxdot_default/1/one2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/1/one2.flac"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "path": "./sample_packs/0_foxdot_default/2",
+      "children": [
+        {
+          "name": "two1.flac",
+          "path": "./sample_packs/0_foxdot_default/2/two1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/2/two1.flac"
+        },
+        {
+          "name": "two2.flac",
+          "path": "./sample_packs/0_foxdot_default/2/two2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/2/two2.flac"
+        }
+      ]
+    },
+    {
+      "name": "3",
+      "path": "./sample_packs/0_foxdot_default/3",
+      "children": [
+        {
+          "name": "three1.flac",
+          "path": "./sample_packs/0_foxdot_default/3/three1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/3/three1.flac"
+        },
+        {
+          "name": "three2.flac",
+          "path": "./sample_packs/0_foxdot_default/3/three2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/3/three2.flac"
+        }
+      ]
+    },
+    {
+      "name": "4",
+      "path": "./sample_packs/0_foxdot_default/4",
+      "children": [
+        {
+          "name": "four1.flac",
+          "path": "./sample_packs/0_foxdot_default/4/four1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/4/four1.flac"
+        },
+        {
+          "name": "four2.flac",
+          "path": "./sample_packs/0_foxdot_default/4/four2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/4/four2.flac"
+        }
+      ]
+    },
+    {
+      "name": "_ampersand",
+      "path": "./sample_packs/0_foxdot_default/_ampersand",
+      "children": [
+        {
+          "name": "2_triangle.flac",
+          "path": "./sample_packs/0_foxdot_default/_ampersand/2_triangle.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_ampersand/2_triangle.flac"
+        },
+        {
+          "name": "3_triangle.flac",
+          "path": "./sample_packs/0_foxdot_default/_ampersand/3_triangle.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_ampersand/3_triangle.flac"
+        },
+        {
+          "name": "4_metal.flac",
+          "path": "./sample_packs/0_foxdot_default/_ampersand/4_metal.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_ampersand/4_metal.flac"
+        }
+      ]
+    },
+    {
+      "name": "_asterix",
+      "path": "./sample_packs/0_foxdot_default/_asterix",
+      "children": [
+        {
+          "name": "0_clap.flac",
+          "path": "./sample_packs/0_foxdot_default/_asterix/0_clap.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_asterix/0_clap.flac"
+        },
+        {
+          "name": "1_clap.flac",
+          "path": "./sample_packs/0_foxdot_default/_asterix/1_clap.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_asterix/1_clap.flac"
+        },
+        {
+          "name": "2_clap.flac",
+          "path": "./sample_packs/0_foxdot_default/_asterix/2_clap.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_asterix/2_clap.flac"
+        },
+        {
+          "name": "4_clap.flac",
+          "path": "./sample_packs/0_foxdot_default/_asterix/4_clap.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_asterix/4_clap.flac"
+        },
+        {
+          "name": "5_clap.flac",
+          "path": "./sample_packs/0_foxdot_default/_asterix/5_clap.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_asterix/5_clap.flac"
+        },
+        {
+          "name": "6_clap.flac",
+          "path": "./sample_packs/0_foxdot_default/_asterix/6_clap.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_asterix/6_clap.flac"
+        }
+      ]
+    },
+    {
+      "name": "_at",
+      "path": "./sample_packs/0_foxdot_default/_at",
+      "children": [
+        {
+          "name": "gb_noise%20%281%29.flac",
+          "path": "./sample_packs/0_foxdot_default/_at/gb_noise%20%281%29.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_at/gb_noise%2520%25281%2529.flac"
+        },
+        {
+          "name": "gb_noise%20%282%29.flac",
+          "path": "./sample_packs/0_foxdot_default/_at/gb_noise%20%282%29.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_at/gb_noise%2520%25282%2529.flac"
+        },
+        {
+          "name": "gb_noise%20%283%29.flac",
+          "path": "./sample_packs/0_foxdot_default/_at/gb_noise%20%283%29.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_at/gb_noise%2520%25283%2529.flac"
+        },
+        {
+          "name": "gb_noise%20%284%29.flac",
+          "path": "./sample_packs/0_foxdot_default/_at/gb_noise%20%284%29.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_at/gb_noise%2520%25284%2529.flac"
+        },
+        {
+          "name": "gb_noise%20%285%29.flac",
+          "path": "./sample_packs/0_foxdot_default/_at/gb_noise%20%285%29.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_at/gb_noise%2520%25285%2529.flac"
+        },
+        {
+          "name": "gb_noise%20%286%29.flac",
+          "path": "./sample_packs/0_foxdot_default/_at/gb_noise%20%286%29.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_at/gb_noise%2520%25286%2529.flac"
+        }
+      ]
+    },
+    {
+      "name": "_backslash",
+      "path": "./sample_packs/0_foxdot_default/_backslash",
+      "children": [
+        {
+          "name": "0_lazer.flac",
+          "path": "./sample_packs/0_foxdot_default/_backslash/0_lazer.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_backslash/0_lazer.flac"
+        },
+        {
+          "name": "1_lazer.flac",
+          "path": "./sample_packs/0_foxdot_default/_backslash/1_lazer.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_backslash/1_lazer.flac"
+        },
+        {
+          "name": "2_lazer.flac",
+          "path": "./sample_packs/0_foxdot_default/_backslash/2_lazer.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_backslash/2_lazer.flac"
+        }
+      ]
+    },
+    {
+      "name": "_bar",
+      "path": "./sample_packs/0_foxdot_default/_bar",
+      "children": [
+        {
+          "name": "A%234_light.flac",
+          "path": "./sample_packs/0_foxdot_default/_bar/A%234_light.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_bar/A%25234_light.flac"
+        },
+        {
+          "name": "A3_light.flac",
+          "path": "./sample_packs/0_foxdot_default/_bar/A3_light.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_bar/A3_light.flac"
+        },
+        {
+          "name": "C%234_light.flac",
+          "path": "./sample_packs/0_foxdot_default/_bar/C%234_light.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_bar/C%25234_light.flac"
+        },
+        {
+          "name": "D%233_light.flac",
+          "path": "./sample_packs/0_foxdot_default/_bar/D%233_light.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_bar/D%25233_light.flac"
+        },
+        {
+          "name": "D3_light.flac",
+          "path": "./sample_packs/0_foxdot_default/_bar/D3_light.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_bar/D3_light.flac"
+        },
+        {
+          "name": "G3_light.flac",
+          "path": "./sample_packs/0_foxdot_default/_bar/G3_light.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_bar/G3_light.flac"
+        }
+      ]
+    },
+    {
+      "name": "_caret",
+      "path": "./sample_packs/0_foxdot_default/_caret",
+      "children": [
+        {
+          "name": "0.flac",
+          "path": "./sample_packs/0_foxdot_default/_caret/0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_caret/0.flac"
+        },
+        {
+          "name": "1.flac",
+          "path": "./sample_packs/0_foxdot_default/_caret/1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_caret/1.flac"
+        },
+        {
+          "name": "2.flac",
+          "path": "./sample_packs/0_foxdot_default/_caret/2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_caret/2.flac"
+        },
+        {
+          "name": "3.flac",
+          "path": "./sample_packs/0_foxdot_default/_caret/3.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_caret/3.flac"
+        },
+        {
+          "name": "4.flac",
+          "path": "./sample_packs/0_foxdot_default/_caret/4.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_caret/4.flac"
+        }
+      ]
+    },
+    {
+      "name": "_colon",
+      "path": "./sample_packs/0_foxdot_default/_colon",
+      "children": [
+        {
+          "name": "hh01.flac",
+          "path": "./sample_packs/0_foxdot_default/_colon/hh01.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_colon/hh01.flac"
+        },
+        {
+          "name": "hh02.flac",
+          "path": "./sample_packs/0_foxdot_default/_colon/hh02.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_colon/hh02.flac"
+        },
+        {
+          "name": "hh03.flac",
+          "path": "./sample_packs/0_foxdot_default/_colon/hh03.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_colon/hh03.flac"
+        },
+        {
+          "name": "hh04.flac",
+          "path": "./sample_packs/0_foxdot_default/_colon/hh04.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_colon/hh04.flac"
+        }
+      ]
+    },
+    {
+      "name": "_dollar",
+      "path": "./sample_packs/0_foxdot_default/_dollar",
+      "children": [
+        {
+          "name": "0_bb_kick.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/0_bb_kick.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/0_bb_kick.flac"
+        },
+        {
+          "name": "1_bb_hihat.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/1_bb_hihat.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/1_bb_hihat.flac"
+        },
+        {
+          "name": "2_bb_snare.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/2_bb_snare.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/2_bb_snare.flac"
+        },
+        {
+          "name": "3_bb_shake.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/3_bb_shake.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/3_bb_shake.flac"
+        },
+        {
+          "name": "4_bb_big_kick.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/4_bb_big_kick.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/4_bb_big_kick.flac"
+        },
+        {
+          "name": "5_bb_voice.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/5_bb_voice.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/5_bb_voice.flac"
+        },
+        {
+          "name": "6_bb_snare.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/6_bb_snare.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/6_bb_snare.flac"
+        },
+        {
+          "name": "7_bb_openhihat.flac",
+          "path": "./sample_packs/0_foxdot_default/_dollar/7_bb_openhihat.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_dollar/7_bb_openhihat.flac"
+        }
+      ]
+    },
+    {
+      "name": "_equals",
+      "path": "./sample_packs/0_foxdot_default/_equals",
+      "children": [
+        {
+          "name": "0_hihat_open.flac",
+          "path": "./sample_packs/0_foxdot_default/_equals/0_hihat_open.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_equals/0_hihat_open.flac"
+        },
+        {
+          "name": "1_hihat_open.flac",
+          "path": "./sample_packs/0_foxdot_default/_equals/1_hihat_open.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_equals/1_hihat_open.flac"
+        },
+        {
+          "name": "3_hihat_open.flac",
+          "path": "./sample_packs/0_foxdot_default/_equals/3_hihat_open.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_equals/3_hihat_open.flac"
+        },
+        {
+          "name": "9_hihat_open.flac",
+          "path": "./sample_packs/0_foxdot_default/_equals/9_hihat_open.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_equals/9_hihat_open.flac"
+        }
+      ]
+    },
+    {
+      "name": "_exclamation",
+      "path": "./sample_packs/0_foxdot_default/_exclamation",
+      "children": [
+        {
+          "name": "ayy_0.flac",
+          "path": "./sample_packs/0_foxdot_default/_exclamation/ayy_0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_exclamation/ayy_0.flac"
+        },
+        {
+          "name": "ayy_1.flac",
+          "path": "./sample_packs/0_foxdot_default/_exclamation/ayy_1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_exclamation/ayy_1.flac"
+        },
+        {
+          "name": "yeah_0.flac",
+          "path": "./sample_packs/0_foxdot_default/_exclamation/yeah_0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_exclamation/yeah_0.flac"
+        },
+        {
+          "name": "yeah_1.flac",
+          "path": "./sample_packs/0_foxdot_default/_exclamation/yeah_1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_exclamation/yeah_1.flac"
+        },
+        {
+          "name": "yeah_3.flac",
+          "path": "./sample_packs/0_foxdot_default/_exclamation/yeah_3.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_exclamation/yeah_3.flac"
+        },
+        {
+          "name": "yeah_4.flac",
+          "path": "./sample_packs/0_foxdot_default/_exclamation/yeah_4.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_exclamation/yeah_4.flac"
+        }
+      ]
+    },
+    {
+      "name": "_forwardslash",
+      "path": "./sample_packs/0_foxdot_default/_forwardslash",
+      "children": [
+        {
+          "name": "0_cymrev.flac",
+          "path": "./sample_packs/0_foxdot_default/_forwardslash/0_cymrev.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_forwardslash/0_cymrev.flac"
+        },
+        {
+          "name": "1_rev.flac",
+          "path": "./sample_packs/0_foxdot_default/_forwardslash/1_rev.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_forwardslash/1_rev.flac"
+        }
+      ]
+    },
+    {
+      "name": "_hash",
+      "path": "./sample_packs/0_foxdot_default/_hash",
+      "children": [
+        {
+          "name": "0_crash.flac",
+          "path": "./sample_packs/0_foxdot_default/_hash/0_crash.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hash/0_crash.flac"
+        },
+        {
+          "name": "1_crash.flac",
+          "path": "./sample_packs/0_foxdot_default/_hash/1_crash.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hash/1_crash.flac"
+        },
+        {
+          "name": "2_crash.flac",
+          "path": "./sample_packs/0_foxdot_default/_hash/2_crash.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hash/2_crash.flac"
+        },
+        {
+          "name": "3_crash.flac",
+          "path": "./sample_packs/0_foxdot_default/_hash/3_crash.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hash/3_crash.flac"
+        }
+      ]
+    },
+    {
+      "name": "_hyphen",
+      "path": "./sample_packs/0_foxdot_default/_hyphen",
+      "children": [
+        {
+          "name": "0_hihat_closed.flac",
+          "path": "./sample_packs/0_foxdot_default/_hyphen/0_hihat_closed.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hyphen/0_hihat_closed.flac"
+        },
+        {
+          "name": "1_hihat_closed.flac",
+          "path": "./sample_packs/0_foxdot_default/_hyphen/1_hihat_closed.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hyphen/1_hihat_closed.flac"
+        },
+        {
+          "name": "2_hihat_closed.flac",
+          "path": "./sample_packs/0_foxdot_default/_hyphen/2_hihat_closed.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hyphen/2_hihat_closed.flac"
+        },
+        {
+          "name": "3_hihat_closed.flac",
+          "path": "./sample_packs/0_foxdot_default/_hyphen/3_hihat_closed.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hyphen/3_hihat_closed.flac"
+        },
+        {
+          "name": "4_hihat_closed.flac",
+          "path": "./sample_packs/0_foxdot_default/_hyphen/4_hihat_closed.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hyphen/4_hihat_closed.flac"
+        },
+        {
+          "name": "5_hihat_closed.flac",
+          "path": "./sample_packs/0_foxdot_default/_hyphen/5_hihat_closed.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hyphen/5_hihat_closed.flac"
+        },
+        {
+          "name": "9_hihat_closed.flac",
+          "path": "./sample_packs/0_foxdot_default/_hyphen/9_hihat_closed.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_hyphen/9_hihat_closed.flac"
+        }
+      ]
+    },
+    {
+      "name": "_lessthan",
+      "path": "./sample_packs/0_foxdot_default/_lessthan",
+      "children": [
+        {
+          "name": "0.flac",
+          "path": "./sample_packs/0_foxdot_default/_lessthan/0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_lessthan/0.flac"
+        }
+      ]
+    },
+    {
+      "name": "_loop_",
+      "path": "./sample_packs/0_foxdot_default/_loop_",
+      "children": [
+        {
+          "name": "foxdot.flac",
+          "path": "./sample_packs/0_foxdot_default/_loop_/foxdot.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_loop_/foxdot.flac"
+        }
+      ]
+    },
+    {
+      "name": "_percent",
+      "path": "./sample_packs/0_foxdot_default/_percent",
+      "children": [
+        {
+          "name": "noise_0.flac",
+          "path": "./sample_packs/0_foxdot_default/_percent/noise_0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_percent/noise_0.flac"
+        },
+        {
+          "name": "noise_1.flac",
+          "path": "./sample_packs/0_foxdot_default/_percent/noise_1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_percent/noise_1.flac"
+        },
+        {
+          "name": "noise_2.flac",
+          "path": "./sample_packs/0_foxdot_default/_percent/noise_2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_percent/noise_2.flac"
+        },
+        {
+          "name": "noise_3.flac",
+          "path": "./sample_packs/0_foxdot_default/_percent/noise_3.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_percent/noise_3.flac"
+        },
+        {
+          "name": "noise_4.flac",
+          "path": "./sample_packs/0_foxdot_default/_percent/noise_4.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_percent/noise_4.flac"
+        }
+      ]
+    },
+    {
+      "name": "_plus",
+      "path": "./sample_packs/0_foxdot_default/_plus",
+      "children": [
+        {
+          "name": "wb_0.flac",
+          "path": "./sample_packs/0_foxdot_default/_plus/wb_0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_plus/wb_0.flac"
+        },
+        {
+          "name": "wb_1.flac",
+          "path": "./sample_packs/0_foxdot_default/_plus/wb_1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_plus/wb_1.flac"
+        },
+        {
+          "name": "wb_2.flac",
+          "path": "./sample_packs/0_foxdot_default/_plus/wb_2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_plus/wb_2.flac"
+        }
+      ]
+    },
+    {
+      "name": "_question",
+      "path": "./sample_packs/0_foxdot_default/_question",
+      "children": [
+        {
+          "name": "0.flac",
+          "path": "./sample_packs/0_foxdot_default/_question/0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_question/0.flac"
+        }
+      ]
+    },
+    {
+      "name": "_semicolon",
+      "path": "./sample_packs/0_foxdot_default/_semicolon",
+      "children": [
+        {
+          "name": "ikea_0.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_0.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_0.flac"
+        },
+        {
+          "name": "ikea_1.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_1.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_1.flac"
+        },
+        {
+          "name": "ikea_10.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_10.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_10.flac"
+        },
+        {
+          "name": "ikea_11.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_11.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_11.flac"
+        },
+        {
+          "name": "ikea_12.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_12.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_12.flac"
+        },
+        {
+          "name": "ikea_13.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_13.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_13.flac"
+        },
+        {
+          "name": "ikea_14.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_14.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_14.flac"
+        },
+        {
+          "name": "ikea_15.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_15.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_15.flac"
+        },
+        {
+          "name": "ikea_16.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_16.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_16.flac"
+        },
+        {
+          "name": "ikea_17.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_17.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_17.flac"
+        },
+        {
+          "name": "ikea_18.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_18.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_18.flac"
+        },
+        {
+          "name": "ikea_2.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_2.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_2.flac"
+        },
+        {
+          "name": "ikea_3.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_3.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_3.flac"
+        },
+        {
+          "name": "ikea_4.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_4.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_4.flac"
+        },
+        {
+          "name": "ikea_5.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_5.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_5.flac"
+        },
+        {
+          "name": "ikea_6.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_6.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_6.flac"
+        },
+        {
+          "name": "ikea_7.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_7.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_7.flac"
+        },
+        {
+          "name": "ikea_9.flac",
+          "path": "./sample_packs/0_foxdot_default/_semicolon/ikea_9.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_semicolon/ikea_9.flac"
+        }
+      ]
+    },
+    {
+      "name": "_tilde",
+      "path": "./sample_packs/0_foxdot_default/_tilde",
+      "children": [
+        {
+          "name": "0_ride.flac",
+          "path": "./sample_packs/0_foxdot_default/_tilde/0_ride.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_tilde/0_ride.flac"
+        },
+        {
+          "name": "1_ride.flac",
+          "path": "./sample_packs/0_foxdot_default/_tilde/1_ride.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_tilde/1_ride.flac"
+        },
+        {
+          "name": "2_ride.flac",
+          "path": "./sample_packs/0_foxdot_default/_tilde/2_ride.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_tilde/2_ride.flac"
+        },
+        {
+          "name": "3_ride.aif",
+          "path": "./sample_packs/0_foxdot_default/_tilde/3_ride.aif",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_tilde/3_ride.aif"
+        },
+        {
+          "name": "4_ride.flac",
+          "path": "./sample_packs/0_foxdot_default/_tilde/4_ride.flac",
+          "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/_tilde/4_ride.flac"
+        }
+      ]
+    },
+    {
+      "name": "a",
+      "path": "./sample_packs/0_foxdot_default/a",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/a/lower",
+          "children": [
+            {
+              "name": "gb_hihat%200.flac",
+              "path": "./sample_packs/0_foxdot_default/a/lower/gb_hihat%200.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/lower/gb_hihat%25200.flac"
+            },
+            {
+              "name": "gb_hihat%201.flac",
+              "path": "./sample_packs/0_foxdot_default/a/lower/gb_hihat%201.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/lower/gb_hihat%25201.flac"
+            },
+            {
+              "name": "gb_hihat%202.flac",
+              "path": "./sample_packs/0_foxdot_default/a/lower/gb_hihat%202.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/lower/gb_hihat%25202.flac"
+            },
+            {
+              "name": "gb_hihat%203.flac",
+              "path": "./sample_packs/0_foxdot_default/a/lower/gb_hihat%203.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/lower/gb_hihat%25203.flac"
+            },
+            {
+              "name": "gb_hihat%204.flac",
+              "path": "./sample_packs/0_foxdot_default/a/lower/gb_hihat%204.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/lower/gb_hihat%25204.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/a/upper",
+          "children": [
+            {
+              "name": "0_dist_kick.flac",
+              "path": "./sample_packs/0_foxdot_default/a/upper/0_dist_kick.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/upper/0_dist_kick.flac"
+            },
+            {
+              "name": "1_dist_kick.flac",
+              "path": "./sample_packs/0_foxdot_default/a/upper/1_dist_kick.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/upper/1_dist_kick.flac"
+            },
+            {
+              "name": "2_dist_kick.flac",
+              "path": "./sample_packs/0_foxdot_default/a/upper/2_dist_kick.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/a/upper/2_dist_kick.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "b",
+      "path": "./sample_packs/0_foxdot_default/b",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/b/lower",
+          "children": [
+            {
+              "name": "beep%20%283%29.flac",
+              "path": "./sample_packs/0_foxdot_default/b/lower/beep%20%283%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/lower/beep%2520%25283%2529.flac"
+            },
+            {
+              "name": "dot%20%281%29.flac",
+              "path": "./sample_packs/0_foxdot_default/b/lower/dot%20%281%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/lower/dot%2520%25281%2529.flac"
+            },
+            {
+              "name": "dot%20%282%29.flac",
+              "path": "./sample_packs/0_foxdot_default/b/lower/dot%20%282%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/lower/dot%2520%25282%2529.flac"
+            },
+            {
+              "name": "dot%20%283%29.flac",
+              "path": "./sample_packs/0_foxdot_default/b/lower/dot%20%283%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/lower/dot%2520%25283%2529.flac"
+            },
+            {
+              "name": "dot%20%284%29.flac",
+              "path": "./sample_packs/0_foxdot_default/b/lower/dot%20%284%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/lower/dot%2520%25284%2529.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/b/upper",
+          "children": [
+            {
+              "name": "0.flac",
+              "path": "./sample_packs/0_foxdot_default/b/upper/0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/upper/0.flac"
+            },
+            {
+              "name": "56.flac",
+              "path": "./sample_packs/0_foxdot_default/b/upper/56.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/upper/56.flac"
+            },
+            {
+              "name": "57.flac",
+              "path": "./sample_packs/0_foxdot_default/b/upper/57.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/upper/57.flac"
+            },
+            {
+              "name": "beep%20%285%29.flac",
+              "path": "./sample_packs/0_foxdot_default/b/upper/beep%20%285%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/upper/beep%2520%25285%2529.flac"
+            },
+            {
+              "name": "beep%20%286%29.flac",
+              "path": "./sample_packs/0_foxdot_default/b/upper/beep%20%286%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/b/upper/beep%2520%25286%2529.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "c",
+      "path": "./sample_packs/0_foxdot_default/c",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/c/lower",
+          "children": [
+            {
+              "name": "conga_0.aif",
+              "path": "./sample_packs/0_foxdot_default/c/lower/conga_0.aif",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/lower/conga_0.aif"
+            },
+            {
+              "name": "conga_1.aif",
+              "path": "./sample_packs/0_foxdot_default/c/lower/conga_1.aif",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/lower/conga_1.aif"
+            },
+            {
+              "name": "conga_2.aif",
+              "path": "./sample_packs/0_foxdot_default/c/lower/conga_2.aif",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/lower/conga_2.aif"
+            },
+            {
+              "name": "conga_3.aif",
+              "path": "./sample_packs/0_foxdot_default/c/lower/conga_3.aif",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/lower/conga_3.aif"
+            },
+            {
+              "name": "conga_4.aif",
+              "path": "./sample_packs/0_foxdot_default/c/lower/conga_4.aif",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/lower/conga_4.aif"
+            },
+            {
+              "name": "conga_5.aif",
+              "path": "./sample_packs/0_foxdot_default/c/lower/conga_5.aif",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/lower/conga_5.aif"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/c/upper",
+          "children": [
+            {
+              "name": "voice_1.flac",
+              "path": "./sample_packs/0_foxdot_default/c/upper/voice_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/upper/voice_1.flac"
+            },
+            {
+              "name": "voice_2.flac",
+              "path": "./sample_packs/0_foxdot_default/c/upper/voice_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/upper/voice_2.flac"
+            },
+            {
+              "name": "voice_3.flac",
+              "path": "./sample_packs/0_foxdot_default/c/upper/voice_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/upper/voice_3.flac"
+            },
+            {
+              "name": "voice_4.flac",
+              "path": "./sample_packs/0_foxdot_default/c/upper/voice_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/c/upper/voice_4.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "collection.json",
+      "path": "./sample_packs/0_foxdot_default/collection.json",
+      "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/collection.json"
+    },
+    {
+      "name": "d",
+      "path": "./sample_packs/0_foxdot_default/d",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/d/lower",
+          "children": [
+            {
+              "name": "0_wood.flac",
+              "path": "./sample_packs/0_foxdot_default/d/lower/0_wood.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/lower/0_wood.flac"
+            },
+            {
+              "name": "1_wood.flac",
+              "path": "./sample_packs/0_foxdot_default/d/lower/1_wood.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/lower/1_wood.flac"
+            },
+            {
+              "name": "2_wood.flac",
+              "path": "./sample_packs/0_foxdot_default/d/lower/2_wood.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/lower/2_wood.flac"
+            },
+            {
+              "name": "3_wood.flac",
+              "path": "./sample_packs/0_foxdot_default/d/lower/3_wood.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/lower/3_wood.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/d/upper",
+          "children": [
+            {
+              "name": "alt_snare_0.flac",
+              "path": "./sample_packs/0_foxdot_default/d/upper/alt_snare_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/upper/alt_snare_0.flac"
+            },
+            {
+              "name": "alt_snare_1.flac",
+              "path": "./sample_packs/0_foxdot_default/d/upper/alt_snare_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/upper/alt_snare_1.flac"
+            },
+            {
+              "name": "alt_snare_2.flac",
+              "path": "./sample_packs/0_foxdot_default/d/upper/alt_snare_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/upper/alt_snare_2.flac"
+            },
+            {
+              "name": "alt_snare_3.flac",
+              "path": "./sample_packs/0_foxdot_default/d/upper/alt_snare_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/d/upper/alt_snare_3.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "downloaded_at.txt",
+      "path": "./sample_packs/0_foxdot_default/downloaded_at.txt",
+      "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/downloaded_at.txt"
+    },
+    {
+      "name": "e",
+      "path": "./sample_packs/0_foxdot_default/e",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/e/lower",
+          "children": [
+            {
+              "name": "cb0.flac",
+              "path": "./sample_packs/0_foxdot_default/e/lower/cb0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/e/lower/cb0.flac"
+            },
+            {
+              "name": "cb1.flac",
+              "path": "./sample_packs/0_foxdot_default/e/lower/cb1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/e/lower/cb1.flac"
+            },
+            {
+              "name": "cb2.flac",
+              "path": "./sample_packs/0_foxdot_default/e/lower/cb2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/e/lower/cb2.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/e/upper",
+          "children": [
+            {
+              "name": "E1.flac",
+              "path": "./sample_packs/0_foxdot_default/e/upper/E1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/e/upper/E1.flac"
+            },
+            {
+              "name": "E2.flac",
+              "path": "./sample_packs/0_foxdot_default/e/upper/E2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/e/upper/E2.flac"
+            },
+            {
+              "name": "E3.flac",
+              "path": "./sample_packs/0_foxdot_default/e/upper/E3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/e/upper/E3.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "f",
+      "path": "./sample_packs/0_foxdot_default/f",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/f/lower",
+          "children": [
+            {
+              "name": "Perc00.flac",
+              "path": "./sample_packs/0_foxdot_default/f/lower/Perc00.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/lower/Perc00.flac"
+            },
+            {
+              "name": "Perc01.flac",
+              "path": "./sample_packs/0_foxdot_default/f/lower/Perc01.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/lower/Perc01.flac"
+            },
+            {
+              "name": "Perc02.flac",
+              "path": "./sample_packs/0_foxdot_default/f/lower/Perc02.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/lower/Perc02.flac"
+            },
+            {
+              "name": "Perc03.flac",
+              "path": "./sample_packs/0_foxdot_default/f/lower/Perc03.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/lower/Perc03.flac"
+            },
+            {
+              "name": "Perc04.flac",
+              "path": "./sample_packs/0_foxdot_default/f/lower/Perc04.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/lower/Perc04.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/f/upper",
+          "children": [
+            {
+              "name": "Stab%207.flac",
+              "path": "./sample_packs/0_foxdot_default/f/upper/Stab%207.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/upper/Stab%25207.flac"
+            },
+            {
+              "name": "brand%20new.flac",
+              "path": "./sample_packs/0_foxdot_default/f/upper/brand%20new.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/upper/brand%2520new.flac"
+            },
+            {
+              "name": "flared%20funk1.flac",
+              "path": "./sample_packs/0_foxdot_default/f/upper/flared%20funk1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/upper/flared%2520funk1.flac"
+            },
+            {
+              "name": "horn%20swipe.flac",
+              "path": "./sample_packs/0_foxdot_default/f/upper/horn%20swipe.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/upper/horn%2520swipe.flac"
+            },
+            {
+              "name": "z_airhorn.flac",
+              "path": "./sample_packs/0_foxdot_default/f/upper/z_airhorn.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/f/upper/z_airhorn.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "g",
+      "path": "./sample_packs/0_foxdot_default/g",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/g/lower",
+          "children": [
+            {
+              "name": "om0.flac",
+              "path": "./sample_packs/0_foxdot_default/g/lower/om0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/g/lower/om0.flac"
+            },
+            {
+              "name": "om1.flac",
+              "path": "./sample_packs/0_foxdot_default/g/lower/om1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/g/lower/om1.flac"
+            },
+            {
+              "name": "om2.flac",
+              "path": "./sample_packs/0_foxdot_default/g/lower/om2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/g/lower/om2.flac"
+            },
+            {
+              "name": "om3.flac",
+              "path": "./sample_packs/0_foxdot_default/g/lower/om3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/g/lower/om3.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/g/upper",
+          "children": [
+            {
+              "name": "0_Stab.flac",
+              "path": "./sample_packs/0_foxdot_default/g/upper/0_Stab.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/g/upper/0_Stab.flac"
+            },
+            {
+              "name": "GHOST.flac",
+              "path": "./sample_packs/0_foxdot_default/g/upper/GHOST.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/g/upper/GHOST.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "h",
+      "path": "./sample_packs/0_foxdot_default/h",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/h/lower",
+          "children": [
+            {
+              "name": "snap_.flac",
+              "path": "./sample_packs/0_foxdot_default/h/lower/snap_.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/lower/snap_.flac"
+            },
+            {
+              "name": "snap_0.flac",
+              "path": "./sample_packs/0_foxdot_default/h/lower/snap_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/lower/snap_0.flac"
+            },
+            {
+              "name": "snap_1.flac",
+              "path": "./sample_packs/0_foxdot_default/h/lower/snap_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/lower/snap_1.flac"
+            },
+            {
+              "name": "snap_2.flac",
+              "path": "./sample_packs/0_foxdot_default/h/lower/snap_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/lower/snap_2.flac"
+            },
+            {
+              "name": "snap_3.flac",
+              "path": "./sample_packs/0_foxdot_default/h/lower/snap_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/lower/snap_3.flac"
+            },
+            {
+              "name": "snap_4.flac",
+              "path": "./sample_packs/0_foxdot_default/h/lower/snap_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/lower/snap_4.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/h/upper",
+          "children": [
+            {
+              "name": "clap_0.flac",
+              "path": "./sample_packs/0_foxdot_default/h/upper/clap_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/upper/clap_0.flac"
+            },
+            {
+              "name": "clap_1.flac",
+              "path": "./sample_packs/0_foxdot_default/h/upper/clap_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/upper/clap_1.flac"
+            },
+            {
+              "name": "clap_2.flac",
+              "path": "./sample_packs/0_foxdot_default/h/upper/clap_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/upper/clap_2.flac"
+            },
+            {
+              "name": "clap_3.flac",
+              "path": "./sample_packs/0_foxdot_default/h/upper/clap_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/upper/clap_3.flac"
+            },
+            {
+              "name": "clap_4.flac",
+              "path": "./sample_packs/0_foxdot_default/h/upper/clap_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/h/upper/clap_4.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "i",
+      "path": "./sample_packs/0_foxdot_default/i",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/i/lower",
+          "children": [
+            {
+              "name": "0_jungle_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/lower/0_jungle_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/lower/0_jungle_snare.flac"
+            },
+            {
+              "name": "1_jungle_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/lower/1_jungle_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/lower/1_jungle_snare.flac"
+            },
+            {
+              "name": "2_jungle_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/lower/2_jungle_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/lower/2_jungle_snare.flac"
+            },
+            {
+              "name": "3_jungle_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/lower/3_jungle_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/lower/3_jungle_snare.flac"
+            },
+            {
+              "name": "4_jungle_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/lower/4_jungle_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/lower/4_jungle_snare.flac"
+            },
+            {
+              "name": "6_jungle_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/lower/6_jungle_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/lower/6_jungle_snare.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/i/upper",
+          "children": [
+            {
+              "name": "0_rock_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/upper/0_rock_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/upper/0_rock_snare.flac"
+            },
+            {
+              "name": "1_rock_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/upper/1_rock_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/upper/1_rock_snare.flac"
+            },
+            {
+              "name": "1_snare_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/i/upper/1_snare_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/upper/1_snare_drum.flac"
+            },
+            {
+              "name": "2_rock_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/upper/2_rock_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/upper/2_rock_snare.flac"
+            },
+            {
+              "name": "3_rock_snare.flac",
+              "path": "./sample_packs/0_foxdot_default/i/upper/3_rock_snare.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/i/upper/3_rock_snare.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "j",
+      "path": "./sample_packs/0_foxdot_default/j",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/j/lower",
+          "children": [
+            {
+              "name": "0.flac",
+              "path": "./sample_packs/0_foxdot_default/j/lower/0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/lower/0.flac"
+            },
+            {
+              "name": "44.flac",
+              "path": "./sample_packs/0_foxdot_default/j/lower/44.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/lower/44.flac"
+            },
+            {
+              "name": "45.flac",
+              "path": "./sample_packs/0_foxdot_default/j/lower/45.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/lower/45.flac"
+            },
+            {
+              "name": "46.flac",
+              "path": "./sample_packs/0_foxdot_default/j/lower/46.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/lower/46.flac"
+            },
+            {
+              "name": "47.flac",
+              "path": "./sample_packs/0_foxdot_default/j/lower/47.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/lower/47.flac"
+            },
+            {
+              "name": "48.flac",
+              "path": "./sample_packs/0_foxdot_default/j/lower/48.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/lower/48.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/j/upper",
+          "children": [
+            {
+              "name": "11.flac",
+              "path": "./sample_packs/0_foxdot_default/j/upper/11.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/upper/11.flac"
+            },
+            {
+              "name": "145.flac",
+              "path": "./sample_packs/0_foxdot_default/j/upper/145.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/upper/145.flac"
+            },
+            {
+              "name": "76.flac",
+              "path": "./sample_packs/0_foxdot_default/j/upper/76.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/upper/76.flac"
+            },
+            {
+              "name": "81.flac",
+              "path": "./sample_packs/0_foxdot_default/j/upper/81.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/j/upper/81.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "k",
+      "path": "./sample_packs/0_foxdot_default/k",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/k/lower",
+          "children": [
+            {
+              "name": "keys_0.flac",
+              "path": "./sample_packs/0_foxdot_default/k/lower/keys_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/k/lower/keys_0.flac"
+            },
+            {
+              "name": "keys_1.flac",
+              "path": "./sample_packs/0_foxdot_default/k/lower/keys_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/k/lower/keys_1.flac"
+            },
+            {
+              "name": "keys_2.flac",
+              "path": "./sample_packs/0_foxdot_default/k/lower/keys_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/k/lower/keys_2.flac"
+            },
+            {
+              "name": "keys_3.flac",
+              "path": "./sample_packs/0_foxdot_default/k/lower/keys_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/k/lower/keys_3.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/k/upper",
+          "children": [
+            {
+              "name": "0_misc.flac",
+              "path": "./sample_packs/0_foxdot_default/k/upper/0_misc.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/k/upper/0_misc.flac"
+            },
+            {
+              "name": "1_misc.flac",
+              "path": "./sample_packs/0_foxdot_default/k/upper/1_misc.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/k/upper/1_misc.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "l",
+      "path": "./sample_packs/0_foxdot_default/l",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/l/lower",
+          "children": [
+            {
+              "name": "perc_0.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_0.flac"
+            },
+            {
+              "name": "perc_1.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_1.flac"
+            },
+            {
+              "name": "perc_2.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_2.flac"
+            },
+            {
+              "name": "perc_3.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_3.flac"
+            },
+            {
+              "name": "perc_4.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_4.flac"
+            },
+            {
+              "name": "perc_5.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_5.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_5.flac"
+            },
+            {
+              "name": "perc_6.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_6.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_6.flac"
+            },
+            {
+              "name": "perc_7.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_7.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_7.flac"
+            },
+            {
+              "name": "perc_8.flac",
+              "path": "./sample_packs/0_foxdot_default/l/lower/perc_8.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/lower/perc_8.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/l/upper",
+          "children": [
+            {
+              "name": "glitch_0.flac",
+              "path": "./sample_packs/0_foxdot_default/l/upper/glitch_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/upper/glitch_0.flac"
+            },
+            {
+              "name": "glitch_1.flac",
+              "path": "./sample_packs/0_foxdot_default/l/upper/glitch_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/upper/glitch_1.flac"
+            },
+            {
+              "name": "glitch_2.flac",
+              "path": "./sample_packs/0_foxdot_default/l/upper/glitch_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/upper/glitch_2.flac"
+            },
+            {
+              "name": "glitch_3.flac",
+              "path": "./sample_packs/0_foxdot_default/l/upper/glitch_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/upper/glitch_3.flac"
+            },
+            {
+              "name": "glitch_4.flac",
+              "path": "./sample_packs/0_foxdot_default/l/upper/glitch_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/upper/glitch_4.flac"
+            },
+            {
+              "name": "glitch_40.flac",
+              "path": "./sample_packs/0_foxdot_default/l/upper/glitch_40.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/l/upper/glitch_40.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "m",
+      "path": "./sample_packs/0_foxdot_default/m",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/m/lower",
+          "children": [
+            {
+              "name": "0_tom.flac",
+              "path": "./sample_packs/0_foxdot_default/m/lower/0_tom.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/lower/0_tom.flac"
+            },
+            {
+              "name": "1_tom.flac",
+              "path": "./sample_packs/0_foxdot_default/m/lower/1_tom.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/lower/1_tom.flac"
+            },
+            {
+              "name": "2_tom.flac",
+              "path": "./sample_packs/0_foxdot_default/m/lower/2_tom.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/lower/2_tom.flac"
+            },
+            {
+              "name": "3_tom.WAV",
+              "path": "./sample_packs/0_foxdot_default/m/lower/3_tom.WAV",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/lower/3_tom.WAV"
+            },
+            {
+              "name": "4_tom.aif",
+              "path": "./sample_packs/0_foxdot_default/m/lower/4_tom.aif",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/lower/4_tom.aif"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/m/upper",
+          "children": [
+            {
+              "name": "tom%20%281%29.flac",
+              "path": "./sample_packs/0_foxdot_default/m/upper/tom%20%281%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/upper/tom%2520%25281%2529.flac"
+            },
+            {
+              "name": "tom%20%282%29.flac",
+              "path": "./sample_packs/0_foxdot_default/m/upper/tom%20%282%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/upper/tom%2520%25282%2529.flac"
+            },
+            {
+              "name": "tom%20%283%29.flac",
+              "path": "./sample_packs/0_foxdot_default/m/upper/tom%20%283%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/upper/tom%2520%25283%2529.flac"
+            },
+            {
+              "name": "tom%20%284%29.flac",
+              "path": "./sample_packs/0_foxdot_default/m/upper/tom%20%284%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/upper/tom%2520%25284%2529.flac"
+            },
+            {
+              "name": "tom%20%285%29.flac",
+              "path": "./sample_packs/0_foxdot_default/m/upper/tom%20%285%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/m/upper/tom%2520%25285%2529.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "n",
+      "path": "./sample_packs/0_foxdot_default/n",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/n/lower",
+          "children": [
+            {
+              "name": "Closedhat02.flac",
+              "path": "./sample_packs/0_foxdot_default/n/lower/Closedhat02.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/lower/Closedhat02.flac"
+            },
+            {
+              "name": "Closedhat04.flac",
+              "path": "./sample_packs/0_foxdot_default/n/lower/Closedhat04.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/lower/Closedhat04.flac"
+            },
+            {
+              "name": "Closedhat05.flac",
+              "path": "./sample_packs/0_foxdot_default/n/lower/Closedhat05.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/lower/Closedhat05.flac"
+            },
+            {
+              "name": "Closedhat06.flac",
+              "path": "./sample_packs/0_foxdot_default/n/lower/Closedhat06.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/lower/Closedhat06.flac"
+            },
+            {
+              "name": "Closedhat08.flac",
+              "path": "./sample_packs/0_foxdot_default/n/lower/Closedhat08.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/lower/Closedhat08.flac"
+            },
+            {
+              "name": "Closedhat10.flac",
+              "path": "./sample_packs/0_foxdot_default/n/lower/Closedhat10.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/lower/Closedhat10.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/n/upper",
+          "children": [
+            {
+              "name": "Openhat01.flac",
+              "path": "./sample_packs/0_foxdot_default/n/upper/Openhat01.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/upper/Openhat01.flac"
+            },
+            {
+              "name": "Openhat03.flac",
+              "path": "./sample_packs/0_foxdot_default/n/upper/Openhat03.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/upper/Openhat03.flac"
+            },
+            {
+              "name": "Openhat08.flac",
+              "path": "./sample_packs/0_foxdot_default/n/upper/Openhat08.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/upper/Openhat08.flac"
+            },
+            {
+              "name": "Openhat09.flac",
+              "path": "./sample_packs/0_foxdot_default/n/upper/Openhat09.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/upper/Openhat09.flac"
+            },
+            {
+              "name": "Openhat10.flac",
+              "path": "./sample_packs/0_foxdot_default/n/upper/Openhat10.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/upper/Openhat10.flac"
+            },
+            {
+              "name": "noise_hat_open_0.flac",
+              "path": "./sample_packs/0_foxdot_default/n/upper/noise_hat_open_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/n/upper/noise_hat_open_0.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "o",
+      "path": "./sample_packs/0_foxdot_default/o",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/o/lower",
+          "children": [
+            {
+              "name": "0_snare_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/o/lower/0_snare_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/lower/0_snare_drum.flac"
+            },
+            {
+              "name": "1_snare_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/o/lower/1_snare_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/lower/1_snare_drum.flac"
+            },
+            {
+              "name": "2_snare_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/o/lower/2_snare_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/lower/2_snare_drum.flac"
+            },
+            {
+              "name": "3_snare_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/o/lower/3_snare_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/lower/3_snare_drum.flac"
+            },
+            {
+              "name": "4_snare_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/o/lower/4_snare_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/lower/4_snare_drum.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/o/upper",
+          "children": [
+            {
+              "name": "O%20%281%29.flac",
+              "path": "./sample_packs/0_foxdot_default/o/upper/O%20%281%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/upper/O%2520%25281%2529.flac"
+            },
+            {
+              "name": "O%20%282%29.flac",
+              "path": "./sample_packs/0_foxdot_default/o/upper/O%20%282%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/upper/O%2520%25282%2529.flac"
+            },
+            {
+              "name": "O%20%284%29.flac",
+              "path": "./sample_packs/0_foxdot_default/o/upper/O%20%284%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/upper/O%2520%25284%2529.flac"
+            },
+            {
+              "name": "O%20%285%29.flac",
+              "path": "./sample_packs/0_foxdot_default/o/upper/O%20%285%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/upper/O%2520%25285%2529.flac"
+            },
+            {
+              "name": "O%20%286%29.flac",
+              "path": "./sample_packs/0_foxdot_default/o/upper/O%20%286%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/upper/O%2520%25286%2529.flac"
+            },
+            {
+              "name": "O%20%287%29.flac",
+              "path": "./sample_packs/0_foxdot_default/o/upper/O%20%287%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/upper/O%2520%25287%2529.flac"
+            },
+            {
+              "name": "O%20%288%29.flac",
+              "path": "./sample_packs/0_foxdot_default/o/upper/O%20%288%29.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/o/upper/O%2520%25288%2529.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "p",
+      "path": "./sample_packs/0_foxdot_default/p",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/p/lower",
+          "children": [
+            {
+              "name": "0_tabla.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/0_tabla.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/0_tabla.flac"
+            },
+            {
+              "name": "11-tabla_te1.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/11-tabla_te1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/11-tabla_te1.flac"
+            },
+            {
+              "name": "12-tabla_te2.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/12-tabla_te2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/12-tabla_te2.flac"
+            },
+            {
+              "name": "13-tabla_te_m.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/13-tabla_te_m.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/13-tabla_te_m.flac"
+            },
+            {
+              "name": "14-tabla_te_ne.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/14-tabla_te_ne.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/14-tabla_te_ne.flac"
+            },
+            {
+              "name": "1_tabla.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/1_tabla.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/1_tabla.flac"
+            },
+            {
+              "name": "2_tabla.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/2_tabla.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/2_tabla.flac"
+            },
+            {
+              "name": "3_tabla.flac",
+              "path": "./sample_packs/0_foxdot_default/p/lower/3_tabla.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/lower/3_tabla.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/p/upper",
+          "children": [
+            {
+              "name": "08-tabla_tas1.flac",
+              "path": "./sample_packs/0_foxdot_default/p/upper/08-tabla_tas1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/upper/08-tabla_tas1.flac"
+            },
+            {
+              "name": "09-tabla_tas2.flac",
+              "path": "./sample_packs/0_foxdot_default/p/upper/09-tabla_tas2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/upper/09-tabla_tas2.flac"
+            },
+            {
+              "name": "10-tabla_tas3.flac",
+              "path": "./sample_packs/0_foxdot_default/p/upper/10-tabla_tas3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/upper/10-tabla_tas3.flac"
+            },
+            {
+              "name": "15-tabla_tun1.flac",
+              "path": "./sample_packs/0_foxdot_default/p/upper/15-tabla_tun1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/upper/15-tabla_tun1.flac"
+            },
+            {
+              "name": "16-tabla_tun2.flac",
+              "path": "./sample_packs/0_foxdot_default/p/upper/16-tabla_tun2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/upper/16-tabla_tun2.flac"
+            },
+            {
+              "name": "17-tabla_tun3.flac",
+              "path": "./sample_packs/0_foxdot_default/p/upper/17-tabla_tun3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/p/upper/17-tabla_tun3.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "q",
+      "path": "./sample_packs/0_foxdot_default/q",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/q/lower",
+          "children": [
+            {
+              "name": "113.flac",
+              "path": "./sample_packs/0_foxdot_default/q/lower/113.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/q/lower/113.flac"
+            },
+            {
+              "name": "Apex%20%26%20Motivation%20Synth%201.flac",
+              "path": "./sample_packs/0_foxdot_default/q/lower/Apex%20%26%20Motivation%20Synth%201.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/q/lower/Apex%2520%2526%2520Motivation%2520Synth%25201.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/q/upper",
+          "children": [
+            {
+              "name": "G1.flac",
+              "path": "./sample_packs/0_foxdot_default/q/upper/G1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/q/upper/G1.flac"
+            },
+            {
+              "name": "G2.flac",
+              "path": "./sample_packs/0_foxdot_default/q/upper/G2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/q/upper/G2.flac"
+            },
+            {
+              "name": "G3.flac",
+              "path": "./sample_packs/0_foxdot_default/q/upper/G3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/q/upper/G3.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "r",
+      "path": "./sample_packs/0_foxdot_default/r",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/r/lower",
+          "children": [
+            {
+              "name": "0_metal.flac",
+              "path": "./sample_packs/0_foxdot_default/r/lower/0_metal.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/lower/0_metal.flac"
+            },
+            {
+              "name": "1_metal.flac",
+              "path": "./sample_packs/0_foxdot_default/r/lower/1_metal.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/lower/1_metal.flac"
+            },
+            {
+              "name": "2_metal.flac",
+              "path": "./sample_packs/0_foxdot_default/r/lower/2_metal.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/lower/2_metal.flac"
+            },
+            {
+              "name": "4_metal.flac",
+              "path": "./sample_packs/0_foxdot_default/r/lower/4_metal.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/lower/4_metal.flac"
+            },
+            {
+              "name": "5_metal.flac",
+              "path": "./sample_packs/0_foxdot_default/r/lower/5_metal.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/lower/5_metal.flac"
+            },
+            {
+              "name": "6_metal.flac",
+              "path": "./sample_packs/0_foxdot_default/r/lower/6_metal.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/lower/6_metal.flac"
+            },
+            {
+              "name": "7_metal.flac",
+              "path": "./sample_packs/0_foxdot_default/r/lower/7_metal.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/lower/7_metal.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/r/upper",
+          "children": [
+            {
+              "name": "0_metallic.flac",
+              "path": "./sample_packs/0_foxdot_default/r/upper/0_metallic.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/upper/0_metallic.flac"
+            },
+            {
+              "name": "2_metallic.flac",
+              "path": "./sample_packs/0_foxdot_default/r/upper/2_metallic.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/upper/2_metallic.flac"
+            },
+            {
+              "name": "3_metallic.flac",
+              "path": "./sample_packs/0_foxdot_default/r/upper/3_metallic.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/upper/3_metallic.flac"
+            },
+            {
+              "name": "4_metallic.flac",
+              "path": "./sample_packs/0_foxdot_default/r/upper/4_metallic.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/r/upper/4_metallic.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "s",
+      "path": "./sample_packs/0_foxdot_default/s",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/s/lower",
+          "children": [
+            {
+              "name": "0_shaker.flac",
+              "path": "./sample_packs/0_foxdot_default/s/lower/0_shaker.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/s/lower/0_shaker.flac"
+            },
+            {
+              "name": "1_shaker.flac",
+              "path": "./sample_packs/0_foxdot_default/s/lower/1_shaker.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/s/lower/1_shaker.flac"
+            },
+            {
+              "name": "2_shaker.flac",
+              "path": "./sample_packs/0_foxdot_default/s/lower/2_shaker.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/s/lower/2_shaker.flac"
+            },
+            {
+              "name": "3_shaker.flac",
+              "path": "./sample_packs/0_foxdot_default/s/lower/3_shaker.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/s/lower/3_shaker.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/s/upper",
+          "children": [
+            {
+              "name": "0_tamborine.flac",
+              "path": "./sample_packs/0_foxdot_default/s/upper/0_tamborine.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/s/upper/0_tamborine.flac"
+            },
+            {
+              "name": "1_tamborine.flac",
+              "path": "./sample_packs/0_foxdot_default/s/upper/1_tamborine.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/s/upper/1_tamborine.flac"
+            },
+            {
+              "name": "2_tamborine.flac",
+              "path": "./sample_packs/0_foxdot_default/s/upper/2_tamborine.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/s/upper/2_tamborine.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "t",
+      "path": "./sample_packs/0_foxdot_default/t",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/t/lower",
+          "children": [
+            {
+              "name": "alt_rimshot_0.flac",
+              "path": "./sample_packs/0_foxdot_default/t/lower/alt_rimshot_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/lower/alt_rimshot_0.flac"
+            },
+            {
+              "name": "alt_rimshot_1.flac",
+              "path": "./sample_packs/0_foxdot_default/t/lower/alt_rimshot_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/lower/alt_rimshot_1.flac"
+            },
+            {
+              "name": "alt_rimshot_2.flac",
+              "path": "./sample_packs/0_foxdot_default/t/lower/alt_rimshot_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/lower/alt_rimshot_2.flac"
+            },
+            {
+              "name": "alt_rimshot_3.flac",
+              "path": "./sample_packs/0_foxdot_default/t/lower/alt_rimshot_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/lower/alt_rimshot_3.flac"
+            },
+            {
+              "name": "rimshot_01.flac",
+              "path": "./sample_packs/0_foxdot_default/t/lower/rimshot_01.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/lower/rimshot_01.flac"
+            },
+            {
+              "name": "rimshot_02.flac",
+              "path": "./sample_packs/0_foxdot_default/t/lower/rimshot_02.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/lower/rimshot_02.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/t/upper",
+          "children": [
+            {
+              "name": "0_metal_cowbell.flac",
+              "path": "./sample_packs/0_foxdot_default/t/upper/0_metal_cowbell.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/upper/0_metal_cowbell.flac"
+            },
+            {
+              "name": "cowbell_1.flac",
+              "path": "./sample_packs/0_foxdot_default/t/upper/cowbell_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/upper/cowbell_1.flac"
+            },
+            {
+              "name": "cowbell_2.flac",
+              "path": "./sample_packs/0_foxdot_default/t/upper/cowbell_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/t/upper/cowbell_2.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "u",
+      "path": "./sample_packs/0_foxdot_default/u",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/u/lower",
+          "children": [
+            {
+              "name": "soft_snare_0.flac",
+              "path": "./sample_packs/0_foxdot_default/u/lower/soft_snare_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/lower/soft_snare_0.flac"
+            },
+            {
+              "name": "soft_snare_1.flac",
+              "path": "./sample_packs/0_foxdot_default/u/lower/soft_snare_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/lower/soft_snare_1.flac"
+            },
+            {
+              "name": "soft_snare_2.flac",
+              "path": "./sample_packs/0_foxdot_default/u/lower/soft_snare_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/lower/soft_snare_2.flac"
+            },
+            {
+              "name": "soft_snare_3.flac",
+              "path": "./sample_packs/0_foxdot_default/u/lower/soft_snare_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/lower/soft_snare_3.flac"
+            },
+            {
+              "name": "soft_snare_4.flac",
+              "path": "./sample_packs/0_foxdot_default/u/lower/soft_snare_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/lower/soft_snare_4.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/u/upper",
+          "children": [
+            {
+              "name": "0_misc.flac",
+              "path": "./sample_packs/0_foxdot_default/u/upper/0_misc.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/upper/0_misc.flac"
+            },
+            {
+              "name": "1_misc.flac",
+              "path": "./sample_packs/0_foxdot_default/u/upper/1_misc.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/upper/1_misc.flac"
+            },
+            {
+              "name": "2_misc.flac",
+              "path": "./sample_packs/0_foxdot_default/u/upper/2_misc.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/upper/2_misc.flac"
+            },
+            {
+              "name": "3_misc.flac",
+              "path": "./sample_packs/0_foxdot_default/u/upper/3_misc.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/upper/3_misc.flac"
+            },
+            {
+              "name": "4_misc.flac",
+              "path": "./sample_packs/0_foxdot_default/u/upper/4_misc.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/u/upper/4_misc.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "v",
+      "path": "./sample_packs/0_foxdot_default/v",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/v/lower",
+          "children": [
+            {
+              "name": "0_low_bass.flac",
+              "path": "./sample_packs/0_foxdot_default/v/lower/0_low_bass.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/v/lower/0_low_bass.flac"
+            },
+            {
+              "name": "1_low_bass.flac",
+              "path": "./sample_packs/0_foxdot_default/v/lower/1_low_bass.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/v/lower/1_low_bass.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/v/upper",
+          "children": [
+            {
+              "name": "heavy%200.flac",
+              "path": "./sample_packs/0_foxdot_default/v/upper/heavy%200.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/v/upper/heavy%25200.flac"
+            },
+            {
+              "name": "heavy%201.flac",
+              "path": "./sample_packs/0_foxdot_default/v/upper/heavy%201.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/v/upper/heavy%25201.flac"
+            },
+            {
+              "name": "heavy%202.flac",
+              "path": "./sample_packs/0_foxdot_default/v/upper/heavy%202.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/v/upper/heavy%25202.flac"
+            },
+            {
+              "name": "heavy%203.flac",
+              "path": "./sample_packs/0_foxdot_default/v/upper/heavy%203.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/v/upper/heavy%25203.flac"
+            },
+            {
+              "name": "heavy%206.flac",
+              "path": "./sample_packs/0_foxdot_default/v/upper/heavy%206.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/v/upper/heavy%25206.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "w",
+      "path": "./sample_packs/0_foxdot_default/w",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/w/lower",
+          "children": [
+            {
+              "name": "w1.flac",
+              "path": "./sample_packs/0_foxdot_default/w/lower/w1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/w/lower/w1.flac"
+            },
+            {
+              "name": "w2.flac",
+              "path": "./sample_packs/0_foxdot_default/w/lower/w2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/w/lower/w2.flac"
+            },
+            {
+              "name": "w3.flac",
+              "path": "./sample_packs/0_foxdot_default/w/lower/w3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/w/lower/w3.flac"
+            },
+            {
+              "name": "w4.flac",
+              "path": "./sample_packs/0_foxdot_default/w/lower/w4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/w/lower/w4.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/w/upper",
+          "children": [
+            {
+              "name": "gb_kick%201.flac",
+              "path": "./sample_packs/0_foxdot_default/w/upper/gb_kick%201.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/w/upper/gb_kick%25201.flac"
+            },
+            {
+              "name": "gb_kick%203.flac",
+              "path": "./sample_packs/0_foxdot_default/w/upper/gb_kick%203.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/w/upper/gb_kick%25203.flac"
+            },
+            {
+              "name": "gb_kick%204.flac",
+              "path": "./sample_packs/0_foxdot_default/w/upper/gb_kick%204.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/w/upper/gb_kick%25204.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "x",
+      "path": "./sample_packs/0_foxdot_default/x",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/x/lower",
+          "children": [
+            {
+              "name": "0_kick_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/lower/0_kick_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/lower/0_kick_drum.flac"
+            },
+            {
+              "name": "1_kick_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/lower/1_kick_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/lower/1_kick_drum.flac"
+            },
+            {
+              "name": "3_kick_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/lower/3_kick_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/lower/3_kick_drum.flac"
+            },
+            {
+              "name": "4_kick_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/lower/4_kick_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/lower/4_kick_drum.flac"
+            },
+            {
+              "name": "5_kick_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/lower/5_kick_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/lower/5_kick_drum.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/x/upper",
+          "children": [
+            {
+              "name": "0_kick_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/upper/0_kick_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/upper/0_kick_drum.flac"
+            },
+            {
+              "name": "1_bass_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/upper/1_bass_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/upper/1_bass_drum.flac"
+            },
+            {
+              "name": "3_kick_drum_lo.flac",
+              "path": "./sample_packs/0_foxdot_default/x/upper/3_kick_drum_lo.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/upper/3_kick_drum_lo.flac"
+            },
+            {
+              "name": "4_deep_drum.flac",
+              "path": "./sample_packs/0_foxdot_default/x/upper/4_deep_drum.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/x/upper/4_deep_drum.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "y",
+      "path": "./sample_packs/0_foxdot_default/y",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/y/lower",
+          "children": [
+            {
+              "name": "can_0.flac",
+              "path": "./sample_packs/0_foxdot_default/y/lower/can_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/lower/can_0.flac"
+            },
+            {
+              "name": "can_1.flac",
+              "path": "./sample_packs/0_foxdot_default/y/lower/can_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/lower/can_1.flac"
+            },
+            {
+              "name": "can_2.flac",
+              "path": "./sample_packs/0_foxdot_default/y/lower/can_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/lower/can_2.flac"
+            },
+            {
+              "name": "can_4.flac",
+              "path": "./sample_packs/0_foxdot_default/y/lower/can_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/lower/can_4.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/y/upper",
+          "children": [
+            {
+              "name": "bleep_0.flac",
+              "path": "./sample_packs/0_foxdot_default/y/upper/bleep_0.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/upper/bleep_0.flac"
+            },
+            {
+              "name": "bleep_1.flac",
+              "path": "./sample_packs/0_foxdot_default/y/upper/bleep_1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/upper/bleep_1.flac"
+            },
+            {
+              "name": "bleep_2.flac",
+              "path": "./sample_packs/0_foxdot_default/y/upper/bleep_2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/upper/bleep_2.flac"
+            },
+            {
+              "name": "bleep_3.flac",
+              "path": "./sample_packs/0_foxdot_default/y/upper/bleep_3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/upper/bleep_3.flac"
+            },
+            {
+              "name": "bleep_4.flac",
+              "path": "./sample_packs/0_foxdot_default/y/upper/bleep_4.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/y/upper/bleep_4.flac"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "z",
+      "path": "./sample_packs/0_foxdot_default/z",
+      "children": [
+        {
+          "name": "lower",
+          "path": "./sample_packs/0_foxdot_default/z/lower",
+          "children": [
+            {
+              "name": "0_scratch.flac",
+              "path": "./sample_packs/0_foxdot_default/z/lower/0_scratch.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/z/lower/0_scratch.flac"
+            },
+            {
+              "name": "1_scratch.flac",
+              "path": "./sample_packs/0_foxdot_default/z/lower/1_scratch.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/z/lower/1_scratch.flac"
+            },
+            {
+              "name": "2_scratch.flac",
+              "path": "./sample_packs/0_foxdot_default/z/lower/2_scratch.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/z/lower/2_scratch.flac"
+            },
+            {
+              "name": "rewind-rewind.flac",
+              "path": "./sample_packs/0_foxdot_default/z/lower/rewind-rewind.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/z/lower/rewind-rewind.flac"
+            }
+          ]
+        },
+        {
+          "name": "upper",
+          "path": "./sample_packs/0_foxdot_default/z/upper",
+          "children": [
+            {
+              "name": "K1.flac",
+              "path": "./sample_packs/0_foxdot_default/z/upper/K1.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/z/upper/K1.flac"
+            },
+            {
+              "name": "K2.flac",
+              "path": "./sample_packs/0_foxdot_default/z/upper/K2.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/z/upper/K2.flac"
+            },
+            {
+              "name": "K3.flac",
+              "path": "./sample_packs/0_foxdot_default/z/upper/K3.flac",
+              "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/z/upper/K3.flac"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

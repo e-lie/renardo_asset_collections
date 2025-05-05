@@ -2,7 +2,6 @@ import os
 import sys
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from urllib.parse import urljoin, quote
-import pudb
 
 # Configure Jinja environment
 env = Environment(loader=FileSystemLoader(searchpath=''), autoescape=select_autoescape(['html']))
@@ -55,7 +54,7 @@ def generate_index_html(base_dir, base_url):
 
         # URL encode folder and file names
 
-        nonpython_files = [fi for fi in files if (not fi.endswith(".py") and not fi.endswith(".pyc") and fi != ".gitignore")]
+        nonpython_files = [fi for fi in files if fi != ".gitignore"]
 
         nonpython_dirs = [di for di in dirs if di != "indexing_scripts" and di != "__pycache__" and di != ".git"]
 
@@ -79,6 +78,6 @@ def generate_index_html(base_dir, base_url):
 
 
 base_directory = "."
-base_url = 'http://localhost:8000/' 
+base_url = 'https://collections.renardo.org/' 
 
 generate_index_html(base_directory, base_url)

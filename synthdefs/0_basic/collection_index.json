@@ -5,22 +5,27 @@
     {
       "name": "collection.json",
       "path": "./synthdefs/0_basic/collection.json",
-      "url": "http://collections.renardo.org/synthdefs/0_basic/collection.json"
+      "url": "https://collections.renardo.org/synthdefs/0_basic/collection.json"
     },
     {
       "name": "dummy.scd",
       "path": "./synthdefs/0_basic/dummy.scd",
-      "url": "http://collections.renardo.org/synthdefs/0_basic/dummy.scd"
+      "url": "https://collections.renardo.org/synthdefs/0_basic/dummy.scd"
     },
     {
       "name": "dummy2.scd",
       "path": "./synthdefs/0_basic/dummy2.scd",
-      "url": "http://collections.renardo.org/synthdefs/0_basic/dummy2.scd"
+      "url": "https://collections.renardo.org/synthdefs/0_basic/dummy2.scd"
     },
     {
       "name": "dummy3.scd",
       "path": "./synthdefs/0_basic/dummy3.scd",
-      "url": "http://collections.renardo.org/synthdefs/0_basic/dummy3.scd"
+      "url": "https://collections.renardo.org/synthdefs/0_basic/dummy3.scd"
+    },
+    {
+      "name": "index.html",
+      "path": "./synthdefs/0_basic/index.html",
+      "url": "https://collections.renardo.org/synthdefs/0_basic/index.html"
     }
   ]
 }

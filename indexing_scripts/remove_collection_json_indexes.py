@@ -1,5 +1,6 @@
 import os
 
+
 def remove_collection_index_files(root_dir):
     """
     Recursively searches for and deletes all `collection_index.json` files
@@ -26,4 +27,4 @@ def remove_collection_index_files(root_dir):
 
 # Example usage:
 # This will search through the `./docs` directory and delete all `collection_index.json` files it finds.
-remove_collection_index_files(".")
+remove_collection_index_files("..")

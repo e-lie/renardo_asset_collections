@@ -1,0 +1,541 @@
+{
+  "name": "0_foxdot_core",
+  "path": "./sccode_library/0_foxdot_core",
+  "children": [
+    {
+      "name": "collection.json",
+      "path": "./sccode_library/0_foxdot_core/collection.json",
+      "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/collection.json"
+    },
+    {
+      "name": "effect",
+      "path": "./sccode_library/0_foxdot_core/effect",
+      "children": [
+        {
+          "name": "unclassified",
+          "path": "./sccode_library/0_foxdot_core/effect/unclassified",
+          "children": [
+            {
+              "name": "FrequencyModulationPulse.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/FrequencyModulationPulse.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/FrequencyModulationPulse.py"
+            },
+            {
+              "name": "FrequencyModulationSaw.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/FrequencyModulationSaw.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/FrequencyModulationSaw.py"
+            },
+            {
+              "name": "FrequencyModulationSine.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/FrequencyModulationSine.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/FrequencyModulationSine.py"
+            },
+            {
+              "name": "bandPassFilter.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/bandPassFilter.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/bandPassFilter.py"
+            },
+            {
+              "name": "bitcrush.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/bitcrush.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/bitcrush.py"
+            },
+            {
+              "name": "chop.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/chop.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/chop.py"
+            },
+            {
+              "name": "coarse.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/coarse.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/coarse.py"
+            },
+            {
+              "name": "combDelay.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/combDelay.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/combDelay.py"
+            },
+            {
+              "name": "distortion.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/distortion.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/distortion.py"
+            },
+            {
+              "name": "filterSwell.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/filterSwell.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/filterSwell.py"
+            },
+            {
+              "name": "formantFilter.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/formantFilter.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/formantFilter.py"
+            },
+            {
+              "name": "frequencyModulate.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/frequencyModulate.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/frequencyModulate.py"
+            },
+            {
+              "name": "glissando.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/glissando.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/glissando.py"
+            },
+            {
+              "name": "highPassFilter.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/highPassFilter.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/highPassFilter.py"
+            },
+            {
+              "name": "lowPassFilter.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/lowPassFilter.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/lowPassFilter.py"
+            },
+            {
+              "name": "makeSound.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/makeSound.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/makeSound.py"
+            },
+            {
+              "name": "overdriveDistortion.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/overdriveDistortion.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/overdriveDistortion.py"
+            },
+            {
+              "name": "pitchBend.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/pitchBend.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/pitchBend.py"
+            },
+            {
+              "name": "pitchShift.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/pitchShift.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/pitchShift.py"
+            },
+            {
+              "name": "reverb.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/reverb.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/reverb.py"
+            },
+            {
+              "name": "slideFrom.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/slideFrom.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/slideFrom.py"
+            },
+            {
+              "name": "slideTo.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/slideTo.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/slideTo.py"
+            },
+            {
+              "name": "spinPan.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/spinPan.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/spinPan.py"
+            },
+            {
+              "name": "startSound.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/startSound.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/startSound.py"
+            },
+            {
+              "name": "striate.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/striate.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/striate.py"
+            },
+            {
+              "name": "tremolo.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/tremolo.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/tremolo.py"
+            },
+            {
+              "name": "trimLength.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/trimLength.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/trimLength.py"
+            },
+            {
+              "name": "vibrato.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/vibrato.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/vibrato.py"
+            },
+            {
+              "name": "wavesShapeDistortion.py",
+              "path": "./sccode_library/0_foxdot_core/effect/unclassified/wavesShapeDistortion.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/effect/unclassified/wavesShapeDistortion.py"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "instrument",
+      "path": "./sccode_library/0_foxdot_core/instrument",
+      "children": [
+        {
+          "name": "unclassified",
+          "path": "./sccode_library/0_foxdot_core/instrument/unclassified",
+          "children": [
+            {
+              "name": "ambi.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/ambi.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/ambi.py"
+            },
+            {
+              "name": "angel.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/angel.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/angel.py"
+            },
+            {
+              "name": "arpy.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/arpy.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/arpy.py"
+            },
+            {
+              "name": "audioin.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/audioin.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/audioin.py"
+            },
+            {
+              "name": "bass.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/bass.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/bass.py"
+            },
+            {
+              "name": "bell.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/bell.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/bell.py"
+            },
+            {
+              "name": "blip.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/blip.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/blip.py"
+            },
+            {
+              "name": "broken",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/broken",
+              "children": [
+                {
+                  "name": "brass.py",
+                  "path": "./sccode_library/0_foxdot_core/instrument/unclassified/broken/brass.py",
+                  "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/broken/brass.py"
+                },
+                {
+                  "name": "scrap.py",
+                  "path": "./sccode_library/0_foxdot_core/instrument/unclassified/broken/scrap.py",
+                  "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/broken/scrap.py"
+                },
+                {
+                  "name": "vrender.py",
+                  "path": "./sccode_library/0_foxdot_core/instrument/unclassified/broken/vrender.py",
+                  "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/broken/vrender.py"
+                }
+              ]
+            },
+            {
+              "name": "bug.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/bug.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/bug.py"
+            },
+            {
+              "name": "charm.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/charm.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/charm.py"
+            },
+            {
+              "name": "creep.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/creep.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/creep.py"
+            },
+            {
+              "name": "crunch.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/crunch.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/crunch.py"
+            },
+            {
+              "name": "dab.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/dab.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/dab.py"
+            },
+            {
+              "name": "dbass.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/dbass.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/dbass.py"
+            },
+            {
+              "name": "dirt.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/dirt.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/dirt.py"
+            },
+            {
+              "name": "donk.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/donk.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/donk.py"
+            },
+            {
+              "name": "donk1.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/donk1.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/donk1.py"
+            },
+            {
+              "name": "donk2.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/donk2.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/donk2.py"
+            },
+            {
+              "name": "dub.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/dub.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/dub.py"
+            },
+            {
+              "name": "feel.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/feel.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/feel.py"
+            },
+            {
+              "name": "fuzz.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/fuzz.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/fuzz.py"
+            },
+            {
+              "name": "glass.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/glass.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/glass.py"
+            },
+            {
+              "name": "gong.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/gong.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/gong.py"
+            },
+            {
+              "name": "growl.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/growl.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/growl.py"
+            },
+            {
+              "name": "gsynth.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/gsynth.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/gsynth.py"
+            },
+            {
+              "name": "jbass.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/jbass.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/jbass.py"
+            },
+            {
+              "name": "karp.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/karp.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/karp.py"
+            },
+            {
+              "name": "keys.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/keys.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/keys.py"
+            },
+            {
+              "name": "klank.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/klank.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/klank.py"
+            },
+            {
+              "name": "lazer.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/lazer.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/lazer.py"
+            },
+            {
+              "name": "longsaw.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/longsaw.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/longsaw.py"
+            },
+            {
+              "name": "loop.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/loop.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/loop.py"
+            },
+            {
+              "name": "marimba.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/marimba.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/marimba.py"
+            },
+            {
+              "name": "noise.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/noise.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/noise.py"
+            },
+            {
+              "name": "nylon.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/nylon.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/nylon.py"
+            },
+            {
+              "name": "orient.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/orient.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/orient.py"
+            },
+            {
+              "name": "pads.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/pads.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/pads.py"
+            },
+            {
+              "name": "pasha.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/pasha.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/pasha.py"
+            },
+            {
+              "name": "piano.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/piano.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/piano.py"
+            },
+            {
+              "name": "play1.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/play1.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/play1.py"
+            },
+            {
+              "name": "play2.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/play2.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/play2.py"
+            },
+            {
+              "name": "pluck.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/pluck.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/pluck.py"
+            },
+            {
+              "name": "prophet.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/prophet.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/prophet.py"
+            },
+            {
+              "name": "pulse.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/pulse.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/pulse.py"
+            },
+            {
+              "name": "quin.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/quin.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/quin.py"
+            },
+            {
+              "name": "rave.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/rave.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/rave.py"
+            },
+            {
+              "name": "razz.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/razz.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/razz.py"
+            },
+            {
+              "name": "ripple.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/ripple.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/ripple.py"
+            },
+            {
+              "name": "saw.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/saw.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/saw.py"
+            },
+            {
+              "name": "sawbass.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/sawbass.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/sawbass.py"
+            },
+            {
+              "name": "scatter.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/scatter.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/scatter.py"
+            },
+            {
+              "name": "scratch.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/scratch.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/scratch.py"
+            },
+            {
+              "name": "sinepad.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/sinepad.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/sinepad.py"
+            },
+            {
+              "name": "siren.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/siren.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/siren.py"
+            },
+            {
+              "name": "sitar.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/sitar.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/sitar.py"
+            },
+            {
+              "name": "snick.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/snick.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/snick.py"
+            },
+            {
+              "name": "soft.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/soft.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/soft.py"
+            },
+            {
+              "name": "soprano.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/soprano.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/soprano.py"
+            },
+            {
+              "name": "space.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/space.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/space.py"
+            },
+            {
+              "name": "spark.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/spark.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/spark.py"
+            },
+            {
+              "name": "spick.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/spick.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/spick.py"
+            },
+            {
+              "name": "squish.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/squish.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/squish.py"
+            },
+            {
+              "name": "star.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/star.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/star.py"
+            },
+            {
+              "name": "stretch.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/stretch.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/stretch.py"
+            },
+            {
+              "name": "swell.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/swell.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/swell.py"
+            },
+            {
+              "name": "twang.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/twang.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/twang.py"
+            },
+            {
+              "name": "varsaw.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/varsaw.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/varsaw.py"
+            },
+            {
+              "name": "viola.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/viola.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/viola.py"
+            },
+            {
+              "name": "zap.py",
+              "path": "./sccode_library/0_foxdot_core/instrument/unclassified/zap.py",
+              "url": "https://collections.renardo.org/sccode_library/0_foxdot_core/instrument/unclassified/zap.py"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

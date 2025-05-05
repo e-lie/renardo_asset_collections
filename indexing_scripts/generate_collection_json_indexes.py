@@ -1,4 +1,5 @@
 import os
+import shutil
 import json
 import requests
 from urllib.parse import quote, urljoin
@@ -36,7 +37,57 @@ def generate_file_tree_json(base_dir, base_url, output_json):
     print(f"File tree JSON created at {output_json}")
 
 
-
+def clean_directory(directory_path):
+    """
+    Recursively removes .DS_Store files, __pycache__ directories, and .pyc files
+    from the specified directory.
+    
+    Args:
+        directory_path (str): Path to the directory to clean
+    
+    Returns:
+        dict: Counts of removed items by type
+    """
+    if not os.path.isdir(directory_path):
+        raise ValueError(f"'{directory_path}' is not a valid directory")
+    
+    # Initialize counters
+    removed = {
+        "ds_store": 0,
+        "pycache_dirs": 0,
+        "pyc_files": 0
+    }
+    
+    # Walk through the directory tree
+    for root, dirs, files in os.walk(directory_path, topdown=False):
+        # Remove .DS_Store files
+        for file in files:
+            if file == ".DS_Store":
+                file_path = os.path.join(root, file)
+                os.remove(file_path)
+                removed["ds_store"] += 1
+                print(f"Removed: {file_path}")
+            elif file.endswith(".pyc"):
+                file_path = os.path.join(root, file)
+                os.remove(file_path)
+                removed["pyc_files"] += 1
+                print(f"Removed: {file_path}")
+        
+        # Remove __pycache__ directories
+        for dir_name in dirs:
+            if dir_name == "__pycache__":
+                dir_path = os.path.join(root, dir_name)
+                shutil.rmtree(dir_path)
+                removed["pycache_dirs"] += 1
+                print(f"Removed: {dir_path}")
+    
+    # Print summary
+    print("\nCleanup Summary:")
+    print(f"- Removed {removed['ds_store']} .DS_Store files")
+    print(f"- Removed {removed['pycache_dirs']} __pycache__ directories")
+    print(f"- Removed {removed['pyc_files']} .pyc files")
+    
+    return removed
 
 # def generate_folder_indexes(root_dir, base_url):
 #     """
@@ -69,6 +120,9 @@ def generate_folder_indexes(root_dir, base_url):
     - root_dir (str): The root directory to start searching for `collection.json` files.
     - base_url (str): The base URL to be used as the root when generating download links.
     """
+
+    clean_directory(root_dir)
+
     for current_root, dirs, files in os.walk(root_dir):
         # Check if "collection.json" exists in the current folder
         if "collection.json" in files:
@@ -89,4 +143,4 @@ def generate_folder_indexes(root_dir, base_url):
 
 # generate_file_tree_json("./samples", "http://localhost:8000/", "file_tree.json")
 
-generate_folder_indexes(".", "http://localhost:8000/")
+generate_folder_indexes(".", "https://collections.renardo.org")
