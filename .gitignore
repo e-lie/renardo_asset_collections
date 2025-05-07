@@ -4,3 +4,9 @@ __pycache__
 downloaded_at.txt
 
 .DS_Store
+
+.claude
+.vscode
+.venv
+
+**/.claude/settings.local.json

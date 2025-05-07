@@ -61,5 +61,5 @@ def remove_main_index_files(root_dir):
     print(f"Total main index.json files removed: {removed_files}")
 
 # Remove both collection_index.json files and main index.json files
-remove_collection_index_files("..")
-remove_main_index_files("..")
+remove_collection_index_files(".")
+remove_main_index_files(".")
