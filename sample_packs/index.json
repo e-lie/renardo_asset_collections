@@ -1,5 +1,8 @@
 {
     "collections": [
-        "0_foxdot_default"
+        { 
+            "name": "0_foxdot_default",
+            "type": "samples"
+        }
     ]
 }

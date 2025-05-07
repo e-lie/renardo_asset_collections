@@ -1,7 +1,16 @@
 {
     "collections": [
-        "0_foxdot_core",
-        "1_foxdot_community",
-        "2_crashserver"
+        { 
+            "name": "0_foxdot_default",
+            "type": "sccode"
+        },
+        { 
+            "name": "1_foxdot_community",
+            "type": "sccode"
+        },
+        { 
+            "name": "2_crashserver",
+            "type": "sccode"
+        }
     ]
 }
