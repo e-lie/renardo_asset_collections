@@ -934,11 +934,6 @@
       ]
     },
     {
-      "name": "downloaded_at.txt",
-      "path": "./sample_packs/0_foxdot_default/downloaded_at.txt",
-      "url": "https://collections.renardo.org/sample_packs/0_foxdot_default/downloaded_at.txt"
-    },
-    {
       "name": "e",
       "path": "./sample_packs/0_foxdot_default/e",
       "children": [

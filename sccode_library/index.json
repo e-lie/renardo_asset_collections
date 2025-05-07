@@ -1,14 +1,14 @@
 {
     "collections": [
-        { 
+        {
             "name": "0_foxdot_core",
             "type": "sccode"
         },
-        { 
+        {
             "name": "1_foxdot_community",
             "type": "sccode"
         },
-        { 
+        {
             "name": "2_crashserver",
             "type": "sccode"
         }

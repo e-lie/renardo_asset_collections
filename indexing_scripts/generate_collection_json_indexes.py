@@ -89,27 +89,6 @@ def clean_directory(directory_path):
     
     return removed
 
-# def generate_folder_indexes(root_dir, base_url):
-#     """
-#     Traverses a directory tree starting at `root_dir` and, for each folder
-#     containing a `collection.json` file, generates a `collection_index.json` file.
-
-#     Args:
-#     - root_dir (str): The root directory to start searching for `collection.json` files.
-#     - base_url (str): The base URL to be used when generating download links.
-#     """
-#     for current_root, dirs, files in os.walk(root_dir):
-#         # Check if "collection.json" exists in the current folder
-#         if "collection.json" in files:
-#             # Define path for output index file
-#             collection_json_path = os.path.join(current_root, "collection.json")
-#             collection_index_path = os.path.join(current_root, "collection_index.json")
-
-#             # Generate the index for this folder
-#             generate_file_tree_json(current_root, base_url, collection_index_path)
-#             print(f"Generated {collection_index_path} for folder containing collection.json")
-
-
 def generate_folder_indexes(root_dir, base_url):
     """
     Traverses a directory tree starting at `root_dir` and, for each folder
@@ -140,7 +119,57 @@ def generate_folder_indexes(root_dir, base_url):
             generate_file_tree_json(current_root, folder_base_url, collection_index_path)
             print(f"Generated {collection_index_path} for folder containing collection.json with base URL {folder_base_url}")
 
+def generate_main_indexes(root_dir, base_url):
+    """
+    Generates or updates the main index.json files in the sample_packs and sccode_library
+    directories that list all collections in those directories.
+    
+    Args:
+    - root_dir (str): The root directory (project root)
+    - base_url (str): The base URL to be used as the root
+    """
+    # Define paths for the main directories
+    sample_packs_dir = os.path.join(root_dir, "sample_packs")
+    sccode_library_dir = os.path.join(root_dir, "sccode_library")
+    
+    # Process sample_packs directory
+    if os.path.isdir(sample_packs_dir):
+        collections = []
+        
+        # Iterate through subdirectories to find collections
+        for item in sorted(os.listdir(sample_packs_dir)):
+            item_path = os.path.join(sample_packs_dir, item)
+            if os.path.isdir(item_path) and os.path.exists(os.path.join(item_path, "collection.json")):
+                collections.append({
+                    "name": item,
+                    "type": "samples"
+                })
+        
+        # Create the index.json file
+        index_path = os.path.join(sample_packs_dir, "index.json")
+        with open(index_path, "w", encoding="utf-8") as f:
+            json.dump({"collections": collections}, f, indent=4)
+        print(f"Generated {index_path} with {len(collections)} sample collections")
+    
+    # Process sccode_library directory
+    if os.path.isdir(sccode_library_dir):
+        collections = []
+        
+        # Iterate through subdirectories to find collections
+        for item in sorted(os.listdir(sccode_library_dir)):
+            item_path = os.path.join(sccode_library_dir, item)
+            if os.path.isdir(item_path) and os.path.exists(os.path.join(item_path, "collection.json")):
+                collections.append({
+                    "name": item,
+                    "type": "sccode"
+                })
+        
+        # Create the index.json file
+        index_path = os.path.join(sccode_library_dir, "index.json")
+        with open(index_path, "w", encoding="utf-8") as f:
+            json.dump({"collections": collections}, f, indent=4)
+        print(f"Generated {index_path} with {len(collections)} sccode collections")
 
-# generate_file_tree_json("./samples", "http://localhost:8000/", "file_tree.json")
-
+# Generate both collection_index.json files and main index.json files
 generate_folder_indexes(".", "https://collections.renardo.org")
+generate_main_indexes(".", "https://collections.renardo.org")
