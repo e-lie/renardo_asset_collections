@@ -1,5 +1,7 @@
 import os
 import sys
+import fnmatch
+import re
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from urllib.parse import urljoin, quote
 
@@ -34,9 +36,64 @@ template_content = """
 # Compile the template
 template = env.from_string(template_content)
 
+def load_gitignore_patterns(gitignore_path):
+    """Load patterns from .gitignore file"""
+    patterns = []
+    if os.path.exists(gitignore_path):
+        with open(gitignore_path, 'r') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    patterns.append(line)
+    return patterns
+
+def should_ignore_file(file_path, gitignore_patterns, specific_ignore_files):
+    """Check if a file should be ignored based on .gitignore patterns and specific files"""
+    # Check if the file is in the list of specific files to ignore
+    filename = os.path.basename(file_path)
+    if filename in specific_ignore_files:
+        return True
+    
+    # Check if the file matches any gitignore pattern
+    for pattern in gitignore_patterns:
+        # Convert gitignore pattern to fnmatch pattern
+        if pattern.startswith('**/'):
+            pattern = pattern[3:]
+        if '*' in pattern or '?' in pattern or '[' in pattern:
+            if fnmatch.fnmatch(file_path, pattern) or fnmatch.fnmatch(filename, pattern):
+                return True
+    
+    return False
+
+def should_ignore_directory(dir_path, gitignore_patterns, specific_ignore_dirs):
+    """Check if a directory should be ignored based on .gitignore patterns and specific directories"""
+    # Check if the directory is in the list of specific directories to ignore
+    dirname = os.path.basename(dir_path)
+    if dirname in specific_ignore_dirs:
+        return True
+    
+    # Check if the directory matches any gitignore pattern
+    for pattern in gitignore_patterns:
+        # Look for directory patterns that end with /
+        if pattern.endswith('/'):
+            pattern = pattern[:-1]
+        if pattern.startswith('**/'):
+            pattern = pattern[3:]
+        if fnmatch.fnmatch(dirname, pattern):
+            return True
+    
+    return False
+
 def generate_index_html(base_dir, base_url):
+    # Load .gitignore patterns
+    gitignore_path = os.path.join(base_dir, '.gitignore')
+    gitignore_patterns = load_gitignore_patterns(gitignore_path)
+    
+    # Specific files and directories to ignore
+    specific_ignore_files = ['.gitignore', 'uv.lock', '.python-version', 'pyproject.toml']
+    specific_ignore_dirs = ['indexing_scripts', '__pycache__', '.git', '.claude', '.vscode', '.venv']
+    
     for root, dirs, files in os.walk(base_dir):
-        # pudb.set_trace()
         # Determine the folder name (we use index.html for each folder)
         folder_name = os.path.basename(root) or "root"  # "root" for base directory
         index_filename = "index.html"  # Always name the file index.html
@@ -52,14 +109,18 @@ def generate_index_html(base_dir, base_url):
             parent_folder_name = os.path.basename(os.path.dirname(root)) or "root"
             parent_dir = os.path.join(base_url, os.path.relpath(os.path.join(root, ".."), base_dir))
 
+        # Filter out directories to be ignored
+        dirs[:] = [d for d in dirs if not should_ignore_directory(os.path.join(root, d), gitignore_patterns, specific_ignore_dirs)]
+        
+        # Filter out files to be ignored
+        filtered_files = []
+        for file in files:
+            if file != index_filename and not should_ignore_file(os.path.join(root, file), gitignore_patterns, specific_ignore_files):
+                filtered_files.append(file)
+
         # URL encode folder and file names
-
-        nonpython_files = [fi for fi in files if fi != ".gitignore"]
-
-        nonpython_dirs = [di for di in dirs if di != "indexing_scripts" and di != "__pycache__" and di != ".git"]
-
-        encoded_dirs = [quote(d) for d in sorted(nonpython_dirs)]
-        encoded_files = [quote(f) for f in sorted(nonpython_files)]
+        encoded_dirs = [quote(d) for d in sorted(dirs)]
+        encoded_files = [quote(f) for f in sorted(filtered_files)]
 
         # Render the HTML content
         html_content = template.render(
