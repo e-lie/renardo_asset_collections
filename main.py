@@ -1,15 +1,16 @@
 from indexing_scripts.generate_html_indexes import generate_index_html
 from indexing_scripts.remove_html_indexes import remove_html_files
-from indexing_scripts.generate_collection_json_indexes import generate_folder_indexes
+from indexing_scripts.generate_collection_json_indexes import generate_folder_indexes, generate_main_indexes
 from indexing_scripts.remove_collection_json_indexes import remove_collection_index_files
 from indexing_scripts.normalize_filename_for_upload import normalise_filename
 
 
 base_directory = "."
-base_url = 'http://collections.renardo.org/' 
+base_url = 'https://collections.renardo.org/' 
 
 normalise_filename(base_directory)
 remove_collection_index_files(base_directory)
 remove_html_files(base_directory)
 generate_folder_indexes(base_directory, base_url)
+generate_main_indexes(base_directory, base_url)
 generate_index_html(base_directory, base_url)

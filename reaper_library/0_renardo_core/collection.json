@@ -1,0 +1,80 @@
+{
+    "bank_name": "0_renardo_core",
+    "display_name": "Renardo Core",
+    "description": "Core REAPER FX chains for Renardo instruments",
+    "version": "0.0.1",
+    "author": "Renardo Team",
+    "sections": {
+        "instrument": {
+            "synth": {
+                "analog_bass_imaged": {},
+                "brassy": {},
+                "surgext_base": {},
+                "triplesaw": {},
+                "vital_base": {}
+            },
+            "bass": {
+                "acidbb": {},
+                "bass303": {},
+                "bass303_2": {},
+                "creak303": {},
+                "darkpass": {},
+                "darkpluck": {},
+                "growlside": {},
+                "hpluck": {},
+                "minisilver": {},
+                "mr_finger": {},
+                "pluckbass": {},
+                "reese": {},
+                "reese_2": {},
+                "tb303": {},
+                "trooper": {},
+                "wobble": {}
+            },
+            "drums": {
+                "hihat_base": {},
+                "kickerr": {},
+                "kickorr": {}
+            },
+            "guitars_strings": {
+                "pstrings": {}
+            },
+            "mallets": {
+                "marimba_ds": {},
+                "test_vibra": {},
+                "vibra_ds": {}
+            },
+            "noise": {
+                "fordrip": {},
+                "sphrases": {},
+                "whibot": {}
+            },
+            "pads": {
+                "abbysun": {},
+                "apad": {},
+                "corps": {},
+                "descending_into_madness": {},
+                "fpad2": {},
+                "gone": {},
+                "honkwub": {},
+                "mementomori": {},
+                "resop2": {},
+                "solar2": {},
+                "souls": {},
+                "voices": {}
+            },
+            "synth_keys": {
+                "candy": {},
+                "dakeys": {},
+                "delikey": {},
+                "equals": {},
+                "glitter3": {},
+                "lonesine": {},
+                "memory_leak": {},
+                "padarp": {},
+                "relead": {},
+                "sheer": {}
+            }
+        }
+    }
+}

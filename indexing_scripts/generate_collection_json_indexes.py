@@ -121,8 +121,8 @@ def generate_folder_indexes(root_dir, base_url):
 
 def generate_main_indexes(root_dir, base_url):
     """
-    Generates or updates the main index.json files in the sample_packs and sccode_library
-    directories that list all collections in those directories.
+    Generates or updates the main index.json files in the sample_packs, sccode_library,
+    and reaper_library directories that list all collections in those directories.
     
     Args:
     - root_dir (str): The root directory (project root)
@@ -131,6 +131,7 @@ def generate_main_indexes(root_dir, base_url):
     # Define paths for the main directories
     sample_packs_dir = os.path.join(root_dir, "sample_packs")
     sccode_library_dir = os.path.join(root_dir, "sccode_library")
+    reaper_library_dir = os.path.join(root_dir, "reaper_library")
     
     # Process sample_packs directory
     if os.path.isdir(sample_packs_dir):
@@ -169,6 +170,25 @@ def generate_main_indexes(root_dir, base_url):
         with open(index_path, "w", encoding="utf-8") as f:
             json.dump({"collections": collections}, f, indent=4)
         print(f"Generated {index_path} with {len(collections)} sccode collections")
+    
+    # Process reaper_library directory
+    if os.path.isdir(reaper_library_dir):
+        collections = []
+        
+        # Iterate through subdirectories to find collections
+        for item in sorted(os.listdir(reaper_library_dir)):
+            item_path = os.path.join(reaper_library_dir, item)
+            if os.path.isdir(item_path) and os.path.exists(os.path.join(item_path, "collection.json")):
+                collections.append({
+                    "name": item,
+                    "type": "reaper_resources"
+                })
+        
+        # Create the index.json file
+        index_path = os.path.join(reaper_library_dir, "index.json")
+        with open(index_path, "w", encoding="utf-8") as f:
+            json.dump({"collections": collections}, f, indent=4)
+        print(f"Generated {index_path} with {len(collections)} reaper resource collections")
 
 # Generate both collection_index.json files and main index.json files
 generate_folder_indexes(".", "https://collections.renardo.org")

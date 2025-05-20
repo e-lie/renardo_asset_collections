@@ -1,0 +1,480 @@
+{
+  "name": "0_renardo_core",
+  "path": "./reaper_library/0_renardo_core",
+  "children": [
+    {
+      "name": "collection.json",
+      "path": "./reaper_library/0_renardo_core/collection.json",
+      "url": "https://collections.renardo.org/reaper_library/0_renardo_core/collection.json"
+    },
+    {
+      "name": "instrument",
+      "path": "./reaper_library/0_renardo_core/instrument",
+      "children": [
+        {
+          "name": "bass",
+          "path": "./reaper_library/0_renardo_core/instrument/bass",
+          "children": [
+            {
+              "name": "acid_wow.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/acid_wow.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/acid_wow.RfxChain"
+            },
+            {
+              "name": "acid_wow.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/acid_wow.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/acid_wow.py"
+            },
+            {
+              "name": "analog_img.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/analog_img.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/analog_img.RfxChain"
+            },
+            {
+              "name": "analog_img.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/analog_img.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/analog_img.py"
+            },
+            {
+              "name": "bass303.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/bass303.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/bass303.RfxChain"
+            },
+            {
+              "name": "bass303.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/bass303.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/bass303.py"
+            },
+            {
+              "name": "darkpass.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/darkpass.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/darkpass.RfxChain"
+            },
+            {
+              "name": "darkpass.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/darkpass.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/darkpass.py"
+            },
+            {
+              "name": "darkpluck.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/darkpluck.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/darkpluck.RfxChain"
+            },
+            {
+              "name": "darkpluck.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/darkpluck.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/darkpluck.py"
+            },
+            {
+              "name": "growlside.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/growlside.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/growlside.RfxChain"
+            },
+            {
+              "name": "growlside.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/growlside.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/growlside.py"
+            },
+            {
+              "name": "hpluck.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/hpluck.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/hpluck.RfxChain"
+            },
+            {
+              "name": "hpluck.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/hpluck.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/hpluck.py"
+            },
+            {
+              "name": "pluckbass.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/pluckbass.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/pluckbass.RfxChain"
+            },
+            {
+              "name": "pluckbass.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/pluckbass.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/pluckbass.py"
+            },
+            {
+              "name": "reese.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/reese.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/reese.RfxChain"
+            },
+            {
+              "name": "reese.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/reese.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/reese.py"
+            },
+            {
+              "name": "reese_2.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/reese_2.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/reese_2.RfxChain"
+            },
+            {
+              "name": "reese_2.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/reese_2.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/reese_2.py"
+            },
+            {
+              "name": "tb303.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/tb303.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/tb303.RfxChain"
+            },
+            {
+              "name": "tb303.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/tb303.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/tb303.py"
+            },
+            {
+              "name": "trooper.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/trooper.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/trooper.RfxChain"
+            },
+            {
+              "name": "trooper.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/trooper.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/trooper.py"
+            },
+            {
+              "name": "wobble.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/wobble.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/wobble.RfxChain"
+            },
+            {
+              "name": "wobble.py",
+              "path": "./reaper_library/0_renardo_core/instrument/bass/wobble.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/bass/wobble.py"
+            }
+          ]
+        },
+        {
+          "name": "drums",
+          "path": "./reaper_library/0_renardo_core/instrument/drums",
+          "children": [
+            {
+              "name": "kickerr.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/drums/kickerr.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/drums/kickerr.RfxChain"
+            },
+            {
+              "name": "kickerr.py",
+              "path": "./reaper_library/0_renardo_core/instrument/drums/kickerr.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/drums/kickerr.py"
+            },
+            {
+              "name": "kickorr.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/drums/kickorr.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/drums/kickorr.RfxChain"
+            },
+            {
+              "name": "kickorr.py",
+              "path": "./reaper_library/0_renardo_core/instrument/drums/kickorr.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/drums/kickorr.py"
+            },
+            {
+              "name": "reso_hihat.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/drums/reso_hihat.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/drums/reso_hihat.RfxChain"
+            },
+            {
+              "name": "reso_hihat.py",
+              "path": "./reaper_library/0_renardo_core/instrument/drums/reso_hihat.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/drums/reso_hihat.py"
+            }
+          ]
+        },
+        {
+          "name": "guitars_strings",
+          "path": "./reaper_library/0_renardo_core/instrument/guitars_strings",
+          "children": [
+            {
+              "name": "pstrings.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/guitars_strings/pstrings.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/guitars_strings/pstrings.RfxChain"
+            },
+            {
+              "name": "pstrings.py",
+              "path": "./reaper_library/0_renardo_core/instrument/guitars_strings/pstrings.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/guitars_strings/pstrings.py"
+            }
+          ]
+        },
+        {
+          "name": "init",
+          "path": "./reaper_library/0_renardo_core/instrument/init",
+          "children": [
+            {
+              "name": "surgext_base.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/init/surgext_base.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/init/surgext_base.RfxChain"
+            },
+            {
+              "name": "surgext_base.py",
+              "path": "./reaper_library/0_renardo_core/instrument/init/surgext_base.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/init/surgext_base.py"
+            },
+            {
+              "name": "vital_base.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/init/vital_base.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/init/vital_base.RfxChain"
+            },
+            {
+              "name": "vital_base.py",
+              "path": "./reaper_library/0_renardo_core/instrument/init/vital_base.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/init/vital_base.py"
+            }
+          ]
+        },
+        {
+          "name": "lead",
+          "path": "./reaper_library/0_renardo_core/instrument/lead",
+          "children": [
+            {
+              "name": "equals.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/lead/equals.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/lead/equals.RfxChain"
+            },
+            {
+              "name": "equals.py",
+              "path": "./reaper_library/0_renardo_core/instrument/lead/equals.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/lead/equals.py"
+            },
+            {
+              "name": "relead.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/lead/relead.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/lead/relead.RfxChain"
+            },
+            {
+              "name": "relead.py",
+              "path": "./reaper_library/0_renardo_core/instrument/lead/relead.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/lead/relead.py"
+            },
+            {
+              "name": "sheer.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/lead/sheer.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/lead/sheer.RfxChain"
+            },
+            {
+              "name": "sheer.py",
+              "path": "./reaper_library/0_renardo_core/instrument/lead/sheer.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/lead/sheer.py"
+            }
+          ]
+        },
+        {
+          "name": "noise",
+          "path": "./reaper_library/0_renardo_core/instrument/noise",
+          "children": [
+            {
+              "name": "forest_drips.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/noise/forest_drips.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/noise/forest_drips.RfxChain"
+            },
+            {
+              "name": "sphrases.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/noise/sphrases.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/noise/sphrases.RfxChain"
+            },
+            {
+              "name": "sphrases.py",
+              "path": "./reaper_library/0_renardo_core/instrument/noise/sphrases.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/noise/sphrases.py"
+            },
+            {
+              "name": "whibot.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/noise/whibot.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/noise/whibot.RfxChain"
+            },
+            {
+              "name": "whibot.py",
+              "path": "./reaper_library/0_renardo_core/instrument/noise/whibot.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/noise/whibot.py"
+            }
+          ]
+        },
+        {
+          "name": "pads",
+          "path": "./reaper_library/0_renardo_core/instrument/pads",
+          "children": [
+            {
+              "name": "abbysun.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/abbysun.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/abbysun.RfxChain"
+            },
+            {
+              "name": "abbysun.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/abbysun.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/abbysun.py"
+            },
+            {
+              "name": "apad.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/apad.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/apad.RfxChain"
+            },
+            {
+              "name": "apad.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/apad.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/apad.py"
+            },
+            {
+              "name": "corps.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/corps.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/corps.RfxChain"
+            },
+            {
+              "name": "corps.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/corps.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/corps.py"
+            },
+            {
+              "name": "descending_into_madness.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/descending_into_madness.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/descending_into_madness.RfxChain"
+            },
+            {
+              "name": "descending_into_madness.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/descending_into_madness.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/descending_into_madness.py"
+            },
+            {
+              "name": "gone.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/gone.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/gone.RfxChain"
+            },
+            {
+              "name": "gone.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/gone.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/gone.py"
+            },
+            {
+              "name": "honkwub.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/honkwub.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/honkwub.RfxChain"
+            },
+            {
+              "name": "honkwub.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/honkwub.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/honkwub.py"
+            },
+            {
+              "name": "mementomori.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/mementomori.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/mementomori.RfxChain"
+            },
+            {
+              "name": "mementomori.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/mementomori.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/mementomori.py"
+            },
+            {
+              "name": "solar2.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/solar2.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/solar2.RfxChain"
+            },
+            {
+              "name": "solar2.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/solar2.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/solar2.py"
+            },
+            {
+              "name": "souls.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/souls.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/souls.RfxChain"
+            },
+            {
+              "name": "souls.py",
+              "path": "./reaper_library/0_renardo_core/instrument/pads/souls.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/pads/souls.py"
+            }
+          ]
+        },
+        {
+          "name": "synth_keys",
+          "path": "./reaper_library/0_renardo_core/instrument/synth_keys",
+          "children": [
+            {
+              "name": "brassy.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/brassy.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/brassy.RfxChain"
+            },
+            {
+              "name": "brassy.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/brassy.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/brassy.py"
+            },
+            {
+              "name": "candy.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/candy.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/candy.RfxChain"
+            },
+            {
+              "name": "candy.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/candy.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/candy.py"
+            },
+            {
+              "name": "dakeys.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/dakeys.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/dakeys.RfxChain"
+            },
+            {
+              "name": "dakeys.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/dakeys.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/dakeys.py"
+            },
+            {
+              "name": "glitter3.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/glitter3.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/glitter3.RfxChain"
+            },
+            {
+              "name": "glitter3.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/glitter3.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/glitter3.py"
+            },
+            {
+              "name": "lonesine.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/lonesine.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/lonesine.RfxChain"
+            },
+            {
+              "name": "lonesine.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/lonesine.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/lonesine.py"
+            },
+            {
+              "name": "memory_leak.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/memory_leak.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/memory_leak.RfxChain"
+            },
+            {
+              "name": "memory_leak.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/memory_leak.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/memory_leak.py"
+            },
+            {
+              "name": "padarp.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/padarp.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/padarp.RfxChain"
+            },
+            {
+              "name": "padarp.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/padarp.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/padarp.py"
+            },
+            {
+              "name": "triplesaw.RfxChain",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/triplesaw.RfxChain",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/triplesaw.RfxChain"
+            },
+            {
+              "name": "triplesaw.py",
+              "path": "./reaper_library/0_renardo_core/instrument/synth_keys/triplesaw.py",
+              "url": "https://collections.renardo.org/reaper_library/0_renardo_core/instrument/synth_keys/triplesaw.py"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
