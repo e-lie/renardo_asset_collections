@@ -26,21 +26,6 @@
               "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/Equalizer.py"
             },
             {
-              "name": "H_Equalizer.py",
-              "path": "./sccode_library/1_foxdot_community/effect/unclassified/H_Equalizer.py",
-              "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/H_Equalizer.py"
-            },
-            {
-              "name": "L_Equalizer.py",
-              "path": "./sccode_library/1_foxdot_community/effect/unclassified/L_Equalizer.py",
-              "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/L_Equalizer.py"
-            },
-            {
-              "name": "M_Equalizer.py",
-              "path": "./sccode_library/1_foxdot_community/effect/unclassified/M_Equalizer.py",
-              "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/M_Equalizer.py"
-            },
-            {
               "name": "MoogFF.py",
               "path": "./sccode_library/1_foxdot_community/effect/unclassified/MoogFF.py",
               "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/MoogFF.py"
@@ -68,6 +53,32 @@
                   "name": "feeddelay.py",
                   "path": "./sccode_library/1_foxdot_community/effect/unclassified/broken/feeddelay.py",
                   "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/broken/feeddelay.py"
+                },
+                {
+                  "name": "on_linux",
+                  "path": "./sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux",
+                  "children": [
+                    {
+                      "name": "H_Equalizer.py",
+                      "path": "./sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/H_Equalizer.py",
+                      "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/H_Equalizer.py"
+                    },
+                    {
+                      "name": "L_Equalizer.py",
+                      "path": "./sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/L_Equalizer.py",
+                      "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/L_Equalizer.py"
+                    },
+                    {
+                      "name": "M_Equalizer.py",
+                      "path": "./sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/M_Equalizer.py",
+                      "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/M_Equalizer.py"
+                    },
+                    {
+                      "name": "output.py",
+                      "path": "./sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/output.py",
+                      "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/broken/on_linux/output.py"
+                    }
+                  ]
                 },
                 {
                   "name": "position.py",
@@ -155,11 +166,6 @@
               "name": "octer.py",
               "path": "./sccode_library/1_foxdot_community/effect/unclassified/octer.py",
               "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/octer.py"
-            },
-            {
-              "name": "output.py",
-              "path": "./sccode_library/1_foxdot_community/effect/unclassified/output.py",
-              "url": "https://collections.renardo.org/sccode_library/1_foxdot_community/effect/unclassified/output.py"
             },
             {
               "name": "phaser.py",
